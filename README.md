@@ -2,7 +2,7 @@
 
 # Some Stars
 
-⭐ <a href="https://www.baidu.com/"  target="_blank">xx xxx</a>的star列表，每周自动更新 ⭐
+⭐ <a href="https://github.com"  target="_blank">xx xxx</a>的star列表，每周自动更新 ⭐
 
 </div><br>
 
