@@ -7,9 +7,21 @@
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <style>
         /* 其他样式 */
+        /*参数
+        type：空/json/xml/url/302(非必须填写）
+
+        px：pc/m 留空自适应屏幕分辨率(非必须填写）
+
+        category：要获取的图片类型《dongman》《fengjing》《biying》《meinv》(必须填写）
+
+        动漫电脑图片302跳转示例：https://tuapi.eees.cc/api.php?category=dongman&type=302
+
+        动漫手机图片302跳转示例：https://tuapi.eees.cc/api.php?category=dongman&px=m&type=302
+
+        图片混合示例：包括动漫，风景图片：https://tuapi.eees.cc/api.php?category={dongman,fengjing}*/
 
         body {
-            background-image: url('https://tuapi.eees.cc/api.php?category=dongman&type=302');
+            background-image: url('https://tuapi.eees.cc/api.php?category=biying&type=302');
             background-size: 100% 100%;
             background-position: center;
             background-attachment: fixed;
@@ -85,7 +97,7 @@
             right: 20px;
             display: none;
             padding: 10px 15px;
-            background-color: tan;
+            background-color: #000000;
             color: white;
             border-radius: 5px;
             cursor: pointer;
@@ -97,7 +109,7 @@
             left: 0;
             height: 100%;
             overflow-y: auto;
-            background-color: tan;
+            background-color: #000000;
             padding: 20px;
             width: 167px;
         }
@@ -118,7 +130,7 @@
             left: 0;
             width: 100%;
             z-index: 100;
-            background-color: tan;
+            background-color: #000000;
             padding: 4px 12px;
         }
 
