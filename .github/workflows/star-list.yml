@@ -7,7 +7,10 @@ on:
   workflow_dispatch:
   schedule:
     # Execute every week at 0:00 CST (UTC+8), which is 16:00 UTC on the previous day
-    - cron: '0 8 * * *' # Runs at 02:00 UTC every day, which is 10:00 Beijing time
+    # - cron: '0 8 * * *' # Runs at 02:00 UTC every day, which is 10:00 Beijing time
+    # Execute every week at 0:00 CST (UTC+8), which is 16:00 UTC on the previous day
+    - cron: '0 16 * * 0' # This runs at 16:00 UTC on Saturday, which is 0:00 CST on Sunday
+
   watch:
     types: [started]
 
