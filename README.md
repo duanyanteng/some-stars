@@ -32,6 +32,8 @@
 
 ## TypeScript
 
+*   [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
+
 *   [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser.
 
 *   [iAmCorey/devtoolset](https://github.com/iAmCorey/devtoolset) - Open-source & database-free developer tools navigator / 开源开发工具导航站
@@ -115,8 +117,6 @@
 *   [tom0li/collection-document](https://github.com/tom0li/collection-document) - Collection of quality safety articles. Awesome articles.
 
 *   [Jstarfish/JavaKeeper](https://github.com/Jstarfish/JavaKeeper) - ✍️  Java 工程师必备架构体系知识总结：涵盖分布式、微服务、RPC等互联网公司常用架构，以及数据存储、缓存、搜索等必备技能
-
-*   [xiaohucode/yidaRule](https://github.com/xiaohucode/yidaRule) - 益达规则仓库
 
 ## JavaScript
 
@@ -266,4 +266,4 @@
 
 ## Svelte
 
-*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for AI (Formerly Ollama WebUI)
+*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
