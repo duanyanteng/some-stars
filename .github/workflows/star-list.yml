@@ -22,7 +22,7 @@ jobs:
       - name: some generator
         uses: simonecorsi/mawesome@v2.2.0
         with:
-          username: duanyanteng
+          username: ${{ secrets.USER_NAME }]
           api-token: ${{ secrets.PERSONAL_TOKEN }}
           github-email: ${{ secrets.USER_EMAIL }}
           template-path: "template/README.ejs"
