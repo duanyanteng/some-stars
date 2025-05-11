@@ -10,11 +10,11 @@
 
 ## Table of Contents
 
+*   [miscellaneous](#miscellaneous)
+*   [Python](#python)
 *   [Vue](#vue)
 *   [Go](#go)
-*   [miscellaneous](#miscellaneous)
 *   [HTML](#html)
-*   [Python](#python)
 *   [JavaScript](#javascript)
 *   [Java](#java)
 *   [TypeScript](#typescript)
@@ -32,74 +32,17 @@
 *   [Less](#less)
 *   [Markdown](#markdown)
 *   [MDX](#mdx)
+*   [Dockerfile](#dockerfile)
 *   [Batchfile](#batchfile)
 *   [CSS](#css)
 *   [PLpgSQL](#plpgsql)
 *   [SCSS](#scss)
 
-## Vue
-
-*   [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) - 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制
-
-*   [StavinLi/Workflow](https://github.com/StavinLi/Workflow) - 仿钉钉审批流程设置
-
-*   [JaimeCheng/vue-esign](https://github.com/JaimeCheng/vue-esign) - canvas手写签字 电子签名 A canvas signature  component of vue.
-
-*   [ageerle/ruoyi-uniapp](https://github.com/ageerle/ruoyi-uniapp) - RuoYi AI -小程序
-
-*   [ageerle/ruoyi-web](https://github.com/ageerle/ruoyi-web) - RuoYi AI -前端
-
-*   [classfang/AIHub](https://github.com/classfang/AIHub) - 一款集合多家大模型能力的客户端。拥有丰富的个性化功能。现已支持：OpenAI，Ollama，谷歌 Gemini，讯飞星火，百度文心，阿里通义，天工，月之暗面，智谱，阶跃星辰，DeepSeek 🎉🎉🎉。A collection of large model capabilities of the client. Has a wealth of personalized functions. English UI support.
-
-*   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
-
-*   [continew-org/continew-admin-ui](https://github.com/continew-org/continew-admin-ui) - 全新 3.x 版本，基于 Gi Demo 前端模板开发的 ContiNew Admin 前端适配项目。
-
-*   [rymcu/nebula](https://github.com/rymcu/nebula) - nebula(星云)——一款现代化的知识社区前台项目，使用 Vue + NuxtJS + Element-UI 实现
-
-*   [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
-
-*   [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
-
-*   [yimogit/metools](https://github.com/yimogit/metools) - 个人工具站点
-
-*   [imsyy/DailyHot](https://github.com/imsyy/DailyHot) - DailyHot 今日热榜前端页面 | API：https://github.com/imsyy/DailyHotApi
-
-*   [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
-
-## Go
-
-*   [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
-
-*   [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
-
-*   [bestruirui/BestSub](https://github.com/bestruirui/BestSub) - Best Sub, Best for Your Net
-
-*   [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
-
-*   [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
-
-*   [apache/answer](https://github.com/apache/answer) - A Q\&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
-
-*   [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
-
-*   [snakem982/Pandora-Box](https://github.com/snakem982/Pandora-Box) - A Simple Mihomo GUI.
-
-*   [sub-store-org/Sub-Store-Manager-Cli](https://github.com/sub-store-org/Sub-Store-Manager-Cli) - A cli tool for https://github.com/sub-store-org/Sub-Store base docker.
-
-*   [enchant97/hasty-paste](https://github.com/enchant97/hasty-paste) - Paste it all, with haste.
-
-*   [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
-
-*   [ycvk/deeplx-local](https://github.com/ycvk/deeplx-local) - 自建deeplx服务
-
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
-
-*   [FloatTech/ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
-
-*   [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
-
 ## miscellaneous
+
+*   [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent (And other Open Sourced) System Prompts, Tools & AI Models.
+
+*   [Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers) - 🚀 免费订阅地址，🚀 免费节点，🚀 6小时更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙、免费科学上网、免费梯子、免费ss/v2ray/trojan节点、谷歌商店、翻墙梯子。🚀 Free subscription address, 🚀 Free node, 🚀 Updated every 6 hours, shared node, high-quality node availability, completely free. Free clash subscription address, free ss/v2ray/trojan node.
 
 *   [likuai2010/ClashMeta](https://github.com/likuai2010/ClashMeta) - 半成品
 
@@ -183,23 +126,9 @@
 
 *   [Wechat-ggGitHub/Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - 收集整理 GitHub 上高质量、有趣的开源项目。
 
-## HTML
-
-*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-
-*   [cloudfavorites/favorites-web](https://github.com/cloudfavorites/favorites-web) - 云收藏 Spring Boot 2.X 开源项目
-
-*   [yoyodadada/haoruanfenxiang](https://github.com/yoyodadada/haoruanfenxiang) - 好软分享
-
-*   [paddingme/Front-end-Web-Development-Interview-Question](https://github.com/paddingme/Front-end-Web-Development-Interview-Question) - 前端开发面试题大收集，前端面试集锦 :heart: :gift\_heart: :cupid:
-
-*   [ruiduobao/gaode\_MAP\_CUN](https://github.com/ruiduobao/gaode_MAP_CUN) - 1
-
-*   [netnr/kms](https://github.com/netnr/kms) - KMS 激活服务，slmgr 命令激活 Windows 系统、Office
-
-*   [CHYbeta/Web-Security-Learning](https://github.com/CHYbeta/Web-Security-Learning) - Web-Security-Learning
-
 ## Python
+
+*   [qy527145/crack](https://github.com/qy527145/crack) -
 
 *   [joanrod/star-vector](https://github.com/joanrod/star-vector) - StarVector is a foundation model for SVG generation that transforms vectorization into a code generation task. Using a vision-language modeling architecture, StarVector processes both visual and textual inputs to produce high-quality SVG code with remarkable precision.
 
@@ -207,7 +136,7 @@
 
 *   [fly8888/cursor\_machine\_id](https://github.com/fly8888/cursor_machine_id) - 一键修改cursor 设备ID，解除设备锁定状态，为什么会有这个工具。。。因为我的设备被锁了。。。。
 
-*   [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
+*   [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 
 *   [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 
@@ -244,8 +173,6 @@
 *   [browser-use/web-ui](https://github.com/browser-use/web-ui) - Run AI Agent in your browser.
 
 *   [hmhm2022/gpt-cursor-auto](https://github.com/hmhm2022/gpt-cursor-auto) - Python脚本 一键获取 ChatGpt 的 Access Token，Cursor Pro 自动保活
-
-*   [11notes/docker-kms](https://github.com/11notes/docker-kms) - Activate any version of Windows and Office, forever
 
 *   [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 
@@ -289,7 +216,83 @@
 
 *   [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
 
-*   [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
+## Vue
+
+*   [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) - 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制
+
+*   [StavinLi/Workflow](https://github.com/StavinLi/Workflow) - 仿钉钉审批流程设置
+
+*   [JaimeCheng/vue-esign](https://github.com/JaimeCheng/vue-esign) - canvas手写签字 电子签名 A canvas signature  component of vue.
+
+*   [ageerle/ruoyi-uniapp](https://github.com/ageerle/ruoyi-uniapp) - RuoYi AI -小程序
+
+*   [ageerle/ruoyi-web](https://github.com/ageerle/ruoyi-web) - RuoYi AI -前端
+
+*   [classfang/AIHub](https://github.com/classfang/AIHub) - 一款集合多家大模型能力的客户端。拥有丰富的个性化功能。现已支持：OpenAI，Ollama，谷歌 Gemini，讯飞星火，百度文心，阿里通义，天工，月之暗面，智谱，阶跃星辰，DeepSeek 🎉🎉🎉。A collection of large model capabilities of the client. Has a wealth of personalized functions. English UI support.
+
+*   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
+
+*   [continew-org/continew-admin-ui](https://github.com/continew-org/continew-admin-ui) - 全新 3.x 版本，基于 Gi Demo 前端模板开发的 ContiNew Admin 前端适配项目。
+
+*   [rymcu/nebula](https://github.com/rymcu/nebula) - nebula(星云)——一款现代化的知识社区前台项目，使用 Vue + NuxtJS + Element-UI 实现
+
+*   [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+
+*   [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
+
+*   [yimogit/metools](https://github.com/yimogit/metools) - 个人工具站点
+
+*   [imsyy/DailyHot](https://github.com/imsyy/DailyHot) - DailyHot 今日热榜前端页面 | API：https://github.com/imsyy/DailyHotApi
+
+*   [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
+
+## Go
+
+*   [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
+
+*   [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
+
+*   [bestruirui/BestSub](https://github.com/bestruirui/BestSub) - Best Sub, Best for Your Net
+
+*   [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
+
+*   [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
+
+*   [apache/answer](https://github.com/apache/answer) - A Q\&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
+
+*   [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
+
+*   [snakem982/Pandora-Box](https://github.com/snakem982/Pandora-Box) - A Simple Mihomo GUI.
+
+*   [sub-store-org/Sub-Store-Manager-Cli](https://github.com/sub-store-org/Sub-Store-Manager-Cli) - A cli tool for https://github.com/sub-store-org/Sub-Store base docker.
+
+*   [enchant97/hasty-paste](https://github.com/enchant97/hasty-paste) - Paste it all, with haste.
+
+*   [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
+
+*   [ycvk/deeplx-local](https://github.com/ycvk/deeplx-local) - 自建deeplx服务
+
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+
+*   [FloatTech/ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
+
+*   [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
+
+## HTML
+
+*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+
+*   [cloudfavorites/favorites-web](https://github.com/cloudfavorites/favorites-web) - 云收藏 Spring Boot 2.X 开源项目
+
+*   [yoyodadada/haoruanfenxiang](https://github.com/yoyodadada/haoruanfenxiang) - 好软分享
+
+*   [paddingme/Front-end-Web-Development-Interview-Question](https://github.com/paddingme/Front-end-Web-Development-Interview-Question) - 前端开发面试题大收集，前端面试集锦 :heart: :gift\_heart: :cupid:
+
+*   [ruiduobao/gaode\_MAP\_CUN](https://github.com/ruiduobao/gaode_MAP_CUN) - 1
+
+*   [netnr/kms](https://github.com/netnr/kms) - KMS 激活服务，slmgr 命令激活 Windows 系统、Office
+
+*   [CHYbeta/Web-Security-Learning](https://github.com/CHYbeta/Web-Security-Learning) - Web-Security-Learning
 
 ## JavaScript
 
@@ -297,7 +300,7 @@
 
 *   [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 🚀🚀🚀A faster, better and more stable Redis desktop manager \[GUI client], compatible with Linux, Windows, Mac.
 
-*   [xxnuo/serverless-qrcode-hub](https://github.com/xxnuo/serverless-qrcode-hub) - 苦于微信群聊二维码频繁变动，开发这个能生成永久二维码的工具，不需要服务器。也可作为 URL 缩短链接服务使用。
+*   [xxnuo/serverless-qrcode-hub](https://github.com/xxnuo/serverless-qrcode-hub) - 苦于微信群聊二维码频繁变动，开发这个能生成永久二维码的工具，仅需后台统一更新新二维码。不需要服务器。也可作为 URL 缩短链接服务使用。
 
 *   [beclass/wxbot](https://github.com/beclass/wxbot) - 微信机器人，个人微信号小助手平台， nodejs+nuxt + wechaty 技术栈
 
@@ -438,10 +441,6 @@
 *   [dromara/lamp-cloud](https://github.com/dromara/lamp-cloud) - lamp-cloud 支持jdk21、jdk17、jdk11、jdk8，ta基于 SpringCloud + SpringBoot 开发的微服务中后台快速开发平台，专注于多租户(SaaS架构)解决方案，亦可作为普通项目（非SaaS架构）的基础开发框架使用，目前已实现插拔式数据库隔离、SCHEMA隔离、字段隔离 等租户隔离方案。
 
 *   [makunet/maku-cloud](https://github.com/makunet/maku-cloud) - maku-cloud 微服务 是采用SpringCloud Alibaba 2023、SpringCloud 2023、SpringBoot 3.3、SpringSecurity 6.3、Nacos、Mybatis-Plus、Vue3、Element-Plus等框架，开发的一套SpringCloud低代码开发平台，旨在为开发者提供一个简洁、高效、可扩展的低代码开发平台。
-
-*   [mercyblitz/tech-weekly](https://github.com/mercyblitz/tech-weekly) - 「小马哥技术周报」
-
-*   [Grt1228/chatgpt-java](https://github.com/Grt1228/chatgpt-java) - ChatGPT Java SDK支持流式输出、Gpt插件、联网。支持OpenAI官方所有接口。ChatGPT的Java客户端。OpenAI GPT-3.5-Turb GPT-4  Api Client for Java
 
 ## TypeScript
 
@@ -639,7 +638,7 @@
 
 ## Smarty
 
-*   [opsre/awesome-ops](https://github.com/opsre/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 638 个。
+*   [opsre/awesome-ops](https://github.com/opsre/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 643 个。
 
 ## Dart
 
@@ -672,6 +671,10 @@
 ## MDX
 
 *   [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
+
+## Dockerfile
+
+*   [11notes/docker-kms](https://github.com/11notes/docker-kms) - Activate any version of Windows and Office, forever
 
 ## Batchfile
 
