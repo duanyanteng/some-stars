@@ -10,23 +10,23 @@
 
 ## Table of Contents
 
+*   [Kotlin](#kotlin)
+*   [Shell](#shell)
 *   [TypeScript](#typescript)
+*   [C#](#c)
+*   [Vue](#vue)
 *   [Go](#go)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [HTML](#html)
-*   [Vue](#vue)
-*   [Shell](#shell)
 *   [Java](#java)
 *   [Roff](#roff)
 *   [Jinja](#jinja)
 *   [JavaScript](#javascript)
 *   [CSS](#css)
-*   [C#](#c)
 *   [Rust](#rust)
 *   [C++](#c-1)
 *   [C](#c-2)
-*   [Kotlin](#kotlin)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [PHP](#php)
 *   [PowerShell](#powershell)
@@ -38,7 +38,39 @@
 *   [Dockerfile](#dockerfile)
 *   [Batchfile](#batchfile)
 
+## Kotlin
+
+*   [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers — from ideas to presentations, articles and books.
+
+*   [open-ani/animeko](https://github.com/open-ani/animeko) - 集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform
+
+*   [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) - A rule-based tunnel for Android.
+
+## Shell
+
+*   [xykt/NetQuality](https://github.com/xykt/NetQuality) - 网络质量检测脚本 - Network Quality Check Script
+
+*   [Flikify/getNode](https://github.com/Flikify/getNode) - 每小时更新最新的Clash、v2ray节点信息
+
+*   [jenv/jenv](https://github.com/jenv/jenv) - Manage your Java environment
+
+*   [oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts) - 🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.
+
+*   [tj/n](https://github.com/tj/n) - Node version management
+
+*   [dunwu/linux-tutorial](https://github.com/dunwu/linux-tutorial) - :penguin: Linux教程，主要内容：Linux 命令、Linux 系统运维、软件运维、精选常用Shell脚本
+
+*   [justonemorenight/Fix-Cursor-Too-many-free-trial-accounts-used-on-this-machine](https://github.com/justonemorenight/Fix-Cursor-Too-many-free-trial-accounts-used-on-this-machine) - Reset Trial Cursor
+
+*   [fuzhengwei/CodeGuide](https://github.com/fuzhengwei/CodeGuide) - :books: 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
+
+*   [wujun728/jun\_linux](https://github.com/wujun728/jun_linux) - 一个拿来即用的docker镜像大礼包，直接构建docker镜像环境(docker、dockerfile、k8s、helm、shell and so on )，Linux运维工具及脚本，K8S构建，各种环境构建部署等，包括不限于于shell、python，运维脚本、docker脚本、各种工具库，收集各类运维常用工具脚本，实现快速安装nginx、mysql、pg、apache、php、redis、tomcat、gcc、gitlib、mq、dfs、k8s、jdk等
+
+*   [blackstar-baba/how-2-use-thingsboard](https://github.com/blackstar-baba/how-2-use-thingsboard) - Some docs help use thingsboard
+
 ## TypeScript
+
+*   [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
 
 *   [hangwin/mcp-chrome](https://github.com/hangwin/mcp-chrome) - Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.
 
@@ -88,7 +120,7 @@
 
 *   [lobehub/sd-webui-lobe-theme](https://github.com/lobehub/sd-webui-lobe-theme) - 🅰️ Lobe theme - The modern theme for stable diffusion webui, exquisite interface design, highly customizable UI, and efficiency boosting features.
 
-*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 4 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
+*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modal (Plugins / Artifacts / MCP) and thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
 
 *   [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simplest implementation of a deep research agent - e.g. an agent that can refine its research direction overtime and deep dive into a topic.
 
@@ -108,13 +140,83 @@
 
 *   [027xiguapi/code-box](https://github.com/027xiguapi/code-box) - 本插件可以用于CSDN/知乎/脚本之家/博客园/掘金等网站,一键下载文章html或markdown文件;实现无需登录一键复制代码;支持选中代码;或者代码右上角按钮的一键复制;解除关注博主即可阅读全文提示;去除登录弹窗;去除跳转APP弹窗.
 
-*   [vikiboss/60s](https://github.com/vikiboss/60s) - ⏰ 60s API，哪吒 2 票房、KFC 疯狂星期四、每天 60 秒看世界｜一系列 高质量、开源、可靠、全球 CDN 加速 的开放 API 集合，支持 Docker / Deno / Bun / Cloudflare Workers / Node.js 部署
+*   [vikiboss/60s](https://github.com/vikiboss/60s) - ⏰ 60s API，每天 60 秒看世界、哪吒 2 票房、KFC 疯狂星期四｜一系列 高质量、开源、可靠、全球 CDN 加速 的开放 API 集合，支持 Docker / Deno / Bun / Cloudflare Workers / Node.js 部署
 
 *   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 
-*   [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active project.
+## C\#
 
-*   [sshallow/WhoUsesCookies](https://github.com/sshallow/WhoUsesCookies) - 显示您安装的扩展程序的权限，显示谁在访问您的 cookies。
+*   [AlexanderPro/SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) - SmartSystemMenu extends system menu of all windows in the system
+
+*   [TeslaFly01/SmartSqlT](https://github.com/TeslaFly01/SmartSqlT) - 🔥🔥🔥 SmartSQL 是一款方便、快捷的数据库文档查询、导出工具！该工具从最初支持CHM文档格式开始，通过不断地探索开发、集思广益和不断改进，又陆续支持Word、Excel、PDF、Html、Xml、Json、MarkDown等文档格式的导出。同时支持SqlServer、MySql、PostgreSQL、SQLite等多种数据库的文档查询和导出功能。
+
+*   [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+
+*   [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
+
+*   [TGSAN/CMWTAT\_Digital\_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) - CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
+
+*   [SmallChi/JT808](https://github.com/SmallChi/JT808) - JT/T808 protocol,JT808 protocol, GB808 protocol (support 2011, 2013, 2019 version)  JT/T808协议、JT808协议、GB808协议(支持2011、2013、2019版本)
+
+*   [MahApps/MahApps.Metro](https://github.com/MahApps/MahApps.Metro) - A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort.
+
+*   [builtbybel/Flyby11](https://github.com/builtbybel/Flyby11) - Windows 11 Upgrading Assistant
+
+*   [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager) - A powerful tool for managing networks and troubleshoot network problems!
+
+*   [Planshit/Tai](https://github.com/Planshit/Tai) - 👻 在Windows上统计软件使用时长和网站浏览时长
+
+*   [jenius-apps/ambie](https://github.com/jenius-apps/ambie) - An app that uses white noise, nature sounds, and focus features to boost your productivity.
+
+*   [OdysseusYuan/LKY\_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) - 一键自动化 下载、安装、激活 Office 的利器。
+
+*   [Paving-Base/APK-Installer](https://github.com/Paving-Base/APK-Installer) - An Android Application Installer for Windows
+
+*   [pdone/FreeControl](https://github.com/pdone/FreeControl) - 在PC上控制Android设备
+
+*   [emoacht/Monitorian](https://github.com/emoacht/Monitorian) - A Windows desktop tool to adjust the brightness of multiple monitors with ease
+
+*   [zhaopeiym/IoTClient](https://github.com/zhaopeiym/IoTClient) - This is an IoT device communication protocol implementation client, which will include common industrial communication protocols such as mainstream PLC communication reading, ModBus protocol, and Bacnet protocol. This component is open source and free for life, using the most relaxed MIT open source agreement, you can modify and commercial use at will (commercial use please evaluate and test).   这是一个物联网设备通讯协议实现客户端，将会包括主流PLC通信读取、ModBus协议、Bacnet协议等常用工业通讯协议。本组件终身开源免费，采用最宽松的MIT开源协议，您可以随意修改和商业使用（商业使用请做好评估和测试）。
+
+*   [dotnet/iot](https://github.com/dotnet/iot) - This repo includes .NET Core implementations for various IoT boards, chips, displays and PCBs.
+
+*   [Azure/iotedge](https://github.com/Azure/iotedge) - The IoT Edge OSS project
+
+*   [YSGStudyHards/DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide) - 🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。
+
+## Vue
+
+*   [LYX9527/develop-tools](https://github.com/LYX9527/develop-tools) - 提供各种实用的开发辅助工具
+
+*   [geekgeekrun/geekgeekrun](https://github.com/geekgeekrun/geekgeekrun) - 牛人快跑 - GeekGeekRun ，求职找工作自动化工具（For Boss直聘），快速海投、自动开聊、已读不回提醒、职位信息抓取、不合适职位标记、僵尸职位清理。完全开源、免费！界面友好，简单易用！基于 Puppeteer、Electron 开发。宝宝不用动，妈妈全自动~求职不内耗，祝你拿到好Offer！
+
+*   [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) - Turn any webpage/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://www.pakeplus.com
+
+*   [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) - 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制
+
+*   [StavinLi/Workflow](https://github.com/StavinLi/Workflow) - 仿钉钉审批流程设置
+
+*   [JaimeCheng/vue-esign](https://github.com/JaimeCheng/vue-esign) - canvas手写签字 电子签名 A canvas signature  component of vue.
+
+*   [ageerle/ruoyi-web](https://github.com/ageerle/ruoyi-web) - RuoYi AI -前端
+
+*   [classfang/AIHub](https://github.com/classfang/AIHub) - 一款集合多家大模型能力的客户端。拥有丰富的个性化功能。现已支持：OpenAI，Ollama，谷歌 Gemini，讯飞星火，百度文心，阿里通义，天工，月之暗面，智谱，阶跃星辰，DeepSeek 🎉🎉🎉。A collection of large model capabilities of the client. Has a wealth of personalized functions. English UI support.
+
+*   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
+
+*   [continew-org/continew-admin-ui](https://github.com/continew-org/continew-admin-ui) - 全新 3.x 版本，基于 Gi Demo 前端模板开发的 ContiNew Admin 前端适配项目。
+
+*   [rymcu/nebula](https://github.com/rymcu/nebula) - nebula(星云)——一款现代化的知识社区前台项目，使用 Vue + NuxtJS + Element-UI 实现
+
+*   [snakem982/Pandora-Box](https://github.com/snakem982/Pandora-Box) - A Simple Mihomo GUI. 一个简易的 Mihomo 桌面客户端
+
+*   [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+
+*   [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
+
+*   [yimogit/metools](https://github.com/yimogit/metools) - 个人工具站点
+
+*   [imsyy/DailyHot](https://github.com/imsyy/DailyHot) - DailyHot 今日热榜前端页面 | API：https://github.com/imsyy/DailyHotApi
 
 ## Go
 
@@ -138,15 +240,13 @@
 
 *   [enchant97/hasty-paste](https://github.com/enchant97/hasty-paste) - Paste it all, with haste.
 
-*   [ycvk/deeplx-local](https://github.com/ycvk/deeplx-local) - 自建deeplx服务
-
 ## Python
 
 *   [QiuChenly/InjectLib](https://github.com/QiuChenly/InjectLib) - 你知道我要说什么
 
 *   [chengaopan/AutoMergePublicNodes](https://github.com/chengaopan/AutoMergePublicNodes) - 自动抓取合并互联网上的公开节点。 🚀 免费节点,🚀免费节点订阅,🚀v2ray免费节点,ssr免费节点订阅,clash免费节点订阅,免费梯子,免费翻墙,免费科学上网,免费ss/v2ray/trojan/clash节点,谷歌商店,翻墙梯子
 
-*   [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460. Any other account is fake.
+*   [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake)
 
 *   [qy527145/crack](https://github.com/qy527145/crack) -
 
@@ -318,8 +418,6 @@
 
 *   [stackia/best-windows-apps](https://github.com/stackia/best-windows-apps) - 推荐好用、优秀的 Windows 应用
 
-*   [tom0li/collection-document](https://github.com/tom0li/collection-document) - Collection of quality safety articles. Awesome articles.
-
 ## HTML
 
 *   [flclashnode/flclashnode.github.io](https://github.com/flclashnode/flclashnode.github.io) - FLClash免费节点订阅，FLClash免费机场分享，V2ray、Clash免费机场地址分享，每天更新Clash订阅
@@ -335,60 +433,6 @@
 *   [ruiduobao/gaode\_MAP\_CUN](https://github.com/ruiduobao/gaode_MAP_CUN) - 1
 
 *   [netnr/kms](https://github.com/netnr/kms) - KMS 激活服务，slmgr 命令激活 Windows 系统、Office
-
-*   [CHYbeta/Web-Security-Learning](https://github.com/CHYbeta/Web-Security-Learning) - Web-Security-Learning
-
-## Vue
-
-*   [geekgeekrun/geekgeekrun](https://github.com/geekgeekrun/geekgeekrun) - 牛人快跑 - GeekGeekRun ，求职找工作自动化工具（For Boss直聘），快速海投、自动开聊、已读不回提醒、职位信息抓取、不合适职位标记、僵尸职位清理。完全开源、免费！界面友好，简单易用！基于 Puppeteer、Electron 开发。宝宝不用动，妈妈全自动~求职不内耗，祝你拿到好Offer！
-
-*   [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) - Turn any webpage/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://www.pakeplus.com
-
-*   [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) - 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制
-
-*   [StavinLi/Workflow](https://github.com/StavinLi/Workflow) - 仿钉钉审批流程设置
-
-*   [JaimeCheng/vue-esign](https://github.com/JaimeCheng/vue-esign) - canvas手写签字 电子签名 A canvas signature  component of vue.
-
-*   [ageerle/ruoyi-web](https://github.com/ageerle/ruoyi-web) - RuoYi AI -前端
-
-*   [classfang/AIHub](https://github.com/classfang/AIHub) - 一款集合多家大模型能力的客户端。拥有丰富的个性化功能。现已支持：OpenAI，Ollama，谷歌 Gemini，讯飞星火，百度文心，阿里通义，天工，月之暗面，智谱，阶跃星辰，DeepSeek 🎉🎉🎉。A collection of large model capabilities of the client. Has a wealth of personalized functions. English UI support.
-
-*   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
-
-*   [continew-org/continew-admin-ui](https://github.com/continew-org/continew-admin-ui) - 全新 3.x 版本，基于 Gi Demo 前端模板开发的 ContiNew Admin 前端适配项目。
-
-*   [rymcu/nebula](https://github.com/rymcu/nebula) - nebula(星云)——一款现代化的知识社区前台项目，使用 Vue + NuxtJS + Element-UI 实现
-
-*   [snakem982/Pandora-Box](https://github.com/snakem982/Pandora-Box) - A Simple Mihomo GUI. 一个简易的 Mihomo 桌面客户端
-
-*   [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
-
-*   [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
-
-*   [yimogit/metools](https://github.com/yimogit/metools) - 个人工具站点
-
-*   [imsyy/DailyHot](https://github.com/imsyy/DailyHot) - DailyHot 今日热榜前端页面 | API：https://github.com/imsyy/DailyHotApi
-
-## Shell
-
-*   [Flikify/getNode](https://github.com/Flikify/getNode) - 每小时更新最新的Clash、v2ray节点信息
-
-*   [jenv/jenv](https://github.com/jenv/jenv) - Manage your Java environment
-
-*   [oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts) - 🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.
-
-*   [tj/n](https://github.com/tj/n) - Node version management
-
-*   [dunwu/linux-tutorial](https://github.com/dunwu/linux-tutorial) - :penguin: Linux教程，主要内容：Linux 命令、Linux 系统运维、软件运维、精选常用Shell脚本
-
-*   [justonemorenight/Fix-Cursor-Too-many-free-trial-accounts-used-on-this-machine](https://github.com/justonemorenight/Fix-Cursor-Too-many-free-trial-accounts-used-on-this-machine) - Reset Trial Cursor
-
-*   [fuzhengwei/CodeGuide](https://github.com/fuzhengwei/CodeGuide) - :books: 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
-
-*   [wujun728/jun\_linux](https://github.com/wujun728/jun_linux) - 一个拿来即用的docker镜像大礼包，直接构建docker镜像环境(docker、dockerfile、k8s、helm、shell and so on )，Linux运维工具及脚本，K8S构建，各种环境构建部署等，包括不限于于shell、python，运维脚本、docker脚本、各种工具库，收集各类运维常用工具脚本，实现快速安装nginx、mysql、pg、apache、php、redis、tomcat、gcc、gitlib、mq、dfs、k8s、jdk等
-
-*   [blackstar-baba/how-2-use-thingsboard](https://github.com/blackstar-baba/how-2-use-thingsboard) - Some docs help use thingsboard
 
 ## Java
 
@@ -558,44 +602,6 @@
 
 *   [saxpjexck/lsix](https://github.com/saxpjexck/lsix) -
 
-*   [Akifyss/obsidian-border](https://github.com/Akifyss/obsidian-border) - A theme for obsidian.md
-
-## C\#
-
-*   [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
-
-*   [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
-
-*   [TGSAN/CMWTAT\_Digital\_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) - CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
-
-*   [SmallChi/JT808](https://github.com/SmallChi/JT808) - JT/T808 protocol,JT808 protocol, GB808 protocol (support 2011, 2013, 2019 version)  JT/T808协议、JT808协议、GB808协议(支持2011、2013、2019版本)
-
-*   [MahApps/MahApps.Metro](https://github.com/MahApps/MahApps.Metro) - A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort.
-
-*   [builtbybel/Flyby11](https://github.com/builtbybel/Flyby11) - Windows 11 Upgrading Assistant
-
-*   [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager) - A powerful tool for managing networks and troubleshoot network problems!
-
-*   [Planshit/Tai](https://github.com/Planshit/Tai) - 👻 在Windows上统计软件使用时长和网站浏览时长
-
-*   [jenius-apps/ambie](https://github.com/jenius-apps/ambie) - An app that uses white noise, nature sounds, and focus features to boost your productivity.
-
-*   [OdysseusYuan/LKY\_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) - 一键自动化 下载、安装、激活 Office 的利器。
-
-*   [Paving-Base/APK-Installer](https://github.com/Paving-Base/APK-Installer) - An Android Application Installer for Windows
-
-*   [pdone/FreeControl](https://github.com/pdone/FreeControl) - 在PC上控制Android设备
-
-*   [emoacht/Monitorian](https://github.com/emoacht/Monitorian) - A Windows desktop tool to adjust the brightness of multiple monitors with ease
-
-*   [zhaopeiym/IoTClient](https://github.com/zhaopeiym/IoTClient) - This is an IoT device communication protocol implementation client, which will include common industrial communication protocols such as mainstream PLC communication reading, ModBus protocol, and Bacnet protocol. This component is open source and free for life, using the most relaxed MIT open source agreement, you can modify and commercial use at will (commercial use please evaluate and test).   这是一个物联网设备通讯协议实现客户端，将会包括主流PLC通信读取、ModBus协议、Bacnet协议等常用工业通讯协议。本组件终身开源免费，采用最宽松的MIT开源协议，您可以随意修改和商业使用（商业使用请做好评估和测试）。
-
-*   [dotnet/iot](https://github.com/dotnet/iot) - This repo includes .NET Core implementations for various IoT boards, chips, displays and PCBs.
-
-*   [Azure/iotedge](https://github.com/Azure/iotedge) - The IoT Edge OSS project
-
-*   [YSGStudyHards/DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide) - 🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。
-
 ## Rust
 
 *   [agentcodee/cursor-free-everyday](https://github.com/agentcodee/cursor-free-everyday) - 完全免费, 自动获取新账号,一键重置新额度,  解决机器码问题, 自动满额度
@@ -635,12 +641,6 @@
 *   [duixcom/Duix.Heygem](https://github.com/duixcom/Duix.Heygem) -
 
 *   [guanshuicheng/invoice](https://github.com/guanshuicheng/invoice) - Collaboration with wangxupeng(https://github.com/wangxupeng)
-
-## Kotlin
-
-*   [open-ani/animeko](https://github.com/open-ani/animeko) - 集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform
-
-*   [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) - A rule-based tunnel for Android.
 
 ## Jupyter Notebook
 
