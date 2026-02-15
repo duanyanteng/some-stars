@@ -10,11 +10,11 @@
 
 ## Table of Contents
 
-*   [Shell](#shell)
 *   [TypeScript](#typescript)
+*   [Python](#python)
+*   [Shell](#shell)
 *   [miscellaneous](#miscellaneous)
 *   [Java](#java)
-*   [Python](#python)
 *   [Go](#go)
 *   [JavaScript](#javascript)
 *   [Kotlin](#kotlin)
@@ -45,41 +45,11 @@
 *   [Adblock Filter List](#adblock-filter-list)
 *   [Ruby](#ruby)
 
-## Shell
-
-*   [Alvin9999-newpac/fanqiang](https://github.com/Alvin9999-newpac/fanqiang) - 翻墙、免费翻墙、免费节点、科学上网、自由上网、一键翻墙浏览器、免费翻墙、免费shadowsocks/ss/ssr/v2ray/hysteria/hysteria2/vmess/vless/reality/goflyway账号/节点、cloudflare优选ip、fanqiang、Free VPN、chatgpt、免费科学上网、科学上网梯子、科学上网教程、油管youtube/视频下载、youtube油管镜像/免翻墙网站、美区apple id共享账号、VPN、免费翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙翻墙、翻墙、翻墙翻墙、翻墙翻墙
-
-*   [yonggekkk/argosbx](https://github.com/yonggekkk/argosbx) - 小白自建代理神器！ArgoSBX一键无交互小钢炮脚本💣：Sing-box、Xray、Argo三内核自动搭配；支持VPS、Docker、容器多环境部署；套CDN的5大方案+套WARP的15种组合；已支持协议：AnyTLS、Any-reality、Vless-xhttp-reality-vision-enc、Vless-tcp-reality-vision、Vless-xhttp-vision-enc、Vless-ws-vision-enc、Shadowsocks-2022、Hysteria2、Tuic、Socks5、Vmess-ws、Argo临时/固定隧道
-
-*   [yinmmhh/sb-nodejs](https://github.com/yinmmhh/sb-nodejs) - singbox-nodejs
-
-*   [eishare/tuic-hy2-node.js-python](https://github.com/eishare/tuic-hy2-node.js-python) - tuic hy2-nodejs+python
-
-*   [233boy/v2ray](https://github.com/233boy/v2ray) - 最好用的 V2Ray 一键安装脚本 & 管理脚本
-
-*   [aqzt/kjyw](https://github.com/aqzt/kjyw) - 快捷运维，代号kjyw，项目基于shell、python，运维脚本工具库，收集各类运维常用工具脚本，实现快速安装nginx、mysql、php、redis、nagios、运维经常使用的脚本等等...
-
-*   [xykt/NetQuality](https://github.com/xykt/NetQuality) - 网络质量检测脚本 - Network Quality Check Script
-
-*   [Flikify/Free-Node](https://github.com/Flikify/Free-Node) - 每小时更新最新的Clash、v2ray节点信息
-
-*   [jenv/jenv](https://github.com/jenv/jenv) - Manage your Java environment
-
-*   [oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts) - 🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.
-
-*   [tj/n](https://github.com/tj/n) - Node version management
-
-*   [dunwu/linux-tutorial](https://github.com/dunwu/linux-tutorial) - :penguin: Linux教程，主要内容：Linux 命令、Linux 系统运维、软件运维、精选常用Shell脚本
-
-*   [justonemorenight/Fix-Cursor-Too-many-free-trial-accounts-used-on-this-machine](https://github.com/justonemorenight/Fix-Cursor-Too-many-free-trial-accounts-used-on-this-machine) - Reset Trial Cursor
-
-*   [fuzhengwei/CodeGuide](https://github.com/fuzhengwei/CodeGuide) - :books: 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
-
-*   [wujun728/jun\_k8s\_docker](https://github.com/wujun728/jun_k8s_docker) - 一个拿来即用的docker镜像大礼包，直接构建docker镜像环境(docker、dockerfile、k8s、helm、shell and so on )，Linux运维工具及脚本，K8S构建，各种环境构建部署等，包括不限于于shell、python，运维脚本、docker脚本、各种工具库，收集各类运维常用工具脚本，实现快速安装nginx、mysql、pg、apache、php、redis、tomcat、gcc、gitlib、mq、dfs、k8s、jdk等
-
-*   [blackstar-baba/how-2-use-thingsboard](https://github.com/blackstar-baba/how-2-use-thingsboard) - Some docs help use thingsboard
-
 ## TypeScript
+
+*   [1zilc/fishing-funds](https://github.com/1zilc/fishing-funds) - 基金,大盘,股票,虚拟货币状态栏显示小应用
+
+*   [zhangjh/FlowZ](https://github.com/zhangjh/FlowZ) - 一个简洁现代化的跨平台科学上网客户端，主要支持Vless、Trojan、hysteria2。支持TUN透明代理模式，自定义规则&服务器配置简单易懂，所见即所得。
 
 *   [Syngnat/GoNavi](https://github.com/Syngnat/GoNavi) - 现代化、原生体验的数据库管理工具，支持 MySQL、PostgreSQL、SQLite 等数据库，采用 Go 后端 + Wails + React 前端构建，启动快、体积小、性能强。
 
@@ -191,7 +161,7 @@
 
 *   [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 
-*   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI Agent + Coding Agent + 300+ assistants: agentic AI desktop with autonomous coding, intelligent automation, and unified access to frontier LLMs.
+*   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
 
 *   [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
 
@@ -219,7 +189,7 @@
 
 *   [027xiguapi/code-box](https://github.com/027xiguapi/code-box) - 本插件可以用于CSDN/知乎/脚本之家/博客园/掘金等网站,一键下载文章html或markdown文件;实现无需登录一键复制代码;支持选中代码;或者代码右上角按钮的一键复制;解除关注博主即可阅读全文提示;去除登录弹窗;去除跳转APP弹窗.
 
-*   [vikiboss/60s](https://github.com/vikiboss/60s) - ⏰ 60s API 免费接口。每天 60 秒看世界、小红书/B站/微博/抖音/知乎热搜、金价、油价、天气、翻译、壁纸、Epic 游戏、二维码、猫眼票房｜一系列 高质量、开源、可靠、全球 CDN 加速 的开放 API 集合，支持 Docker / Deno / Bun / Cloudflare Workers / Node.js 部署
+*   [vikiboss/60s](https://github.com/vikiboss/60s) - ⏰ 60s API 免费接口。每天 60 秒看世界、冬奥会奖牌榜 🏅、小红书/B站/微博/抖音/知乎热搜、金价、油价、天气、翻译、壁纸、Epic 游戏、二维码、猫眼票房｜一系列 高质量、开源、可靠、全球 CDN 加速 的开放 API 集合，支持 Docker / Deno / Bun / Cloudflare Workers / Node.js 部署
 
 *   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 
@@ -248,6 +218,204 @@
 *   [Innei/Shiro](https://github.com/Innei/Shiro) - 📜 A minimalist personal website embodying the purity of paper and freshness of snow.
 
 *   [Bistutu/FluentRead](https://github.com/Bistutu/FluentRead) - Open Immersive Translate. A revolutionary open-source browser translation plugin that enables everyone to have a native-like reading experience. 开源的沉浸式翻译，一款革命性的浏览器翻译插件，让所有人都能够拥有母语般的阅读体验。
+
+## Python
+
+*   [Austin-Patrician/eastmoney](https://github.com/Austin-Patrician/eastmoney) - VibeAlpha Terminal 是一个专注于中国 A 股市场的智能金融分析平台，集成了基金分析、股票监控、商品追踪和市场情绪分析等功能。通过 AI 大语言模型自动生成专业的盘前/盘后分析报告，帮助投资者做出更明智的决策。
+
+*   [LorenEteval/Furious](https://github.com/LorenEteval/Furious) - A GUI proxy client based on PySide6. Support Xray-core & hysteria
+
+*   [ermaozi/get\_subscribe](https://github.com/ermaozi/get_subscribe) - ✈️ 白嫖免费机场  / 免费VPN -> 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，持续更新 | 科学上网 | 翻墙
+
+*   [shiyi-0x7f/o-lib](https://github.com/shiyi-0x7f/o-lib) - O-lib is a free and open-source software application for PC
+
+*   [r0ysue/r0capture](https://github.com/r0ysue/r0capture) - 安卓应用层抓包通杀脚本
+
+*   [WECENG/ticket-purchase](https://github.com/WECENG/ticket-purchase) - 大麦自动抢票，支持人员、城市、日期场次、价格选择
+
+*   [LemonQu-GIT/MurasamePet](https://github.com/LemonQu-GIT/MurasamePet) - Ciallo～ (∠・ω< )⌒★
+
+*   [itgoyo/python-binance](https://github.com/itgoyo/python-binance) - 币安实时价格监控+个人持仓受益终端查看神器
+
+*   [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
+
+*   [SwanHubX/SwanLab](https://github.com/SwanHubX/SwanLab) - ⚡️SwanLab - an open-source, modern-design AI training tracking and visualization tool. Supports Cloud / Self-hosted use. Integrated with PyTorch / Transformers / verl / LLaMA Factory / ms-swift / Ultralytics / MMEngine / Keras etc.
+
+*   [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - Simultaneous speech-to-text model
+
+*   [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
+
+*   [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
+
+*   [DaVinci-R/news-analysis-system](https://github.com/DaVinci-R/news-analysis-system) - 一个基于大语言模型的财经新闻自动获取、分析和可视化系统。该系统能够自动获取财联社新闻，使用大语言模型进行智能分析分类，并提供Web界面进行结果展示。
+
+*   [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R\&D process.
+
+*   [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
+
+*   [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
+
+*   [jaysonlong/webvideo-downloader](https://github.com/jaysonlong/webvideo-downloader) - Web video downloader for Bilibili, iQIYI, Tencent Video, MGTV and WeTV. 网站视频下载器，主要支持Bilibili、爱奇艺、腾讯视频、芒果TV、WeTV、愛奇藝台灣站。
+
+*   [wangshub/Douyin-Bot](https://github.com/wangshub/Douyin-Bot) - 😍 Python 抖音机器人，论如何在抖音上找到漂亮小姐姐？
+
+*   [wangshub/TechNews](https://github.com/wangshub/TechNews) - 利用 AI 自动生成 Hacker News 技术摘要并发送电子邮件简报。
+
+*   [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
+
+*   [hiddify/Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager) - Multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy.
+
+*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。
+
+*   [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing\_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
+
+*   [nashsu/FreeAskInternet](https://github.com/nashsu/FreeAskInternet) - FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will  make a multi engine search and combine the search result to LLM and generate the answer based on search results. It's all FREE to use.
+
+*   [lixi5338619/lxSpider](https://github.com/lixi5338619/lxSpider) - 爬虫案例合集。包括但不限于《淘宝、京东、天猫、豆瓣、抖音、快手、微博、微信、阿里、头条、pdd、优酷、爱奇艺、携程、12306、58、搜狐、各种指数、维普万方、Zlibraty、Oalib、小说、招标网、采购网、小红书、大众点评、推特、脉脉、知乎》
+
+*   [lixi5338619/magical\_spider](https://github.com/lixi5338619/magical_spider) - 神奇的蜘蛛🕷，一个几乎适用于所有web端站点的采集方案
+
+*   [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫
+
+*   [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
+
+*   [chatdoc-com/OCRFlux](https://github.com/chatdoc-com/OCRFlux) - OCRFlux is a lightweight yet powerful multimodal toolkit that significantly advances PDF-to-Markdown conversion, excelling in complex layout handling, complicated table parsing and cross-page content merging.
+
+*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+
+*   [robotframework/robotframework](https://github.com/robotframework/robotframework) - Generic automation framework for acceptance testing and RPA
+
+*   [Evil0ctal/Douyin\_TikTok\_Download\_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) - 🚀「Douyin\_TikTok\_Download\_API」是一个开箱即用的高性能异步抖音、快手、TikTok、Bilibili数据爬取工具，支持API调用，在线批量解析及下载。
+
+*   [chengaopan/AutoMergePublicNodes](https://github.com/chengaopan/AutoMergePublicNodes) - 自动抓取合并互联网上的公开节点。 🚀 免费节点,🚀免费节点订阅,🚀v2ray免费节点,ssr免费节点订阅,clash免费节点订阅,免费梯子,免费翻墙,免费科学上网,免费ss/v2ray/trojan/clash节点,谷歌商店,翻墙梯子
+
+*   [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake account)
+
+*   [qy527145/crack](https://github.com/qy527145/crack) -
+
+*   [joanrod/star-vector](https://github.com/joanrod/star-vector) - StarVector is a foundation model for SVG generation that transforms vectorization into a code generation task. Using a vision-language modeling architecture, StarVector processes both visual and textual inputs to produce high-quality SVG code with remarkable precision.
+
+*   [livid/v2ex-gae](https://github.com/livid/v2ex-gae) - Legacy code of V2EX running on Google App Engine
+
+*   [fly8888/cursor\_machine\_id](https://github.com/fly8888/cursor_machine_id) - 一键修改cursor 设备ID，解除设备锁定状态，为什么会有这个工具。。。因为我的设备被锁了。。。。
+
+*   [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+
+*   [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
+
+*   [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
+
+*   [alisen39/TrWebOCR](https://github.com/alisen39/TrWebOCR) - 开源易用的中文离线OCR，识别率媲美大厂，并且提供了易用的web页面及web的接口，方便人类日常工作使用或者其他程序来调用~
+
+*   [jiaeyan/chinese-rhymer](https://github.com/jiaeyan/chinese-rhymer) - 轻量中文押韵神器，100%绝对可用，傻瓜式命令行操作，秒速实现烈焰单押，闪电双押，龙卷三押以及海啸式四押，目前版本 v0.2.6。Search for rhymes for Chinese words, with 1, 2, 3 and 4 characters, released on PyPI with current version of 0.2.6.
+
+*   [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
+
+*   [soimort/you-get](https://github.com/soimort/you-get) - :arrow\_double\_down: Dumb downloader that scrapes the web
+
+*   [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr) - 带带弟弟 通用验证码识别OCR pypi版
+
+*   [BlueSkyXN/AdGuardHomeRules](https://github.com/BlueSkyXN/AdGuardHomeRules) - 高达百万级规则！由我原创&整理的 AdGuardHomeRules ADH广告拦截过滤规则！打造全网最强最全规则集
+
+*   [zqq-nuli/auto-audio-book](https://github.com/zqq-nuli/auto-audio-book) - AI 有声书自动化生成工具
+
+*   [Yuukiy/JavSP](https://github.com/Yuukiy/JavSP) - 汇总多站点数据的AV元数据刮削器
+
+*   [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
+
+*   [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
+
+*   [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
+
+*   [geldata/gel](https://github.com/geldata/gel) - Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more.
+
+*   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
+
+*   [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
+
+*   [Zoupers/proxy-pool](https://github.com/Zoupers/proxy-pool) - One proxy-pool updated from https://github.com/jhao104/proxy\_pool
+
+*   [browser-use/web-ui](https://github.com/browser-use/web-ui) - 🖥️ Run AI Agent in your browser.
+
+*   [hmhm2022/gpt-cursor-auto](https://github.com/hmhm2022/gpt-cursor-auto) - Python脚本 一键获取 ChatGpt 的 Access Token，Cursor Pro 自动保活
+
+*   [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) -
+
+*   [injetlee/Python](https://github.com/injetlee/Python) - Python脚本。模拟登录知乎， 爬虫，操作excel，微信公众号，远程开机
+
+*   [xxnuo/MusicFreePluginsHub](https://github.com/xxnuo/MusicFreePluginsHub) - MusicFree 源插件订阅聚合器 - 订阅全网大全
+
+*   [X-T-E-R/my-little-ocr](https://github.com/X-T-E-R/my-little-ocr) - MyLittleOCR 是一个统一的 OCR 库包装器，提供一致的 API，便于集成和切换多个 OCR 引擎。     MyLittleOCR is a unified OCR wrapper providing a consistent API for seamless integration and switching between multiple OCR engines.
+
+*   [Ucas-HaoranWei/GOT-OCR2.0](https://github.com/Ucas-HaoranWei/GOT-OCR2.0) - Official code implementation of General OCR Theory:  Towards OCR-2.0 via a Unified End-to-end Model
+
+*   [384863451/invoice\_ocr](https://github.com/384863451/invoice_ocr) - 混合票据识别,增值税专用发票, 增值税普通发票, 增值税电子专用发票, 增值税电子普通发票, 增值税普通发票（卷式）, 非税财政电子票据, 过路费发票, 火车票, 飞机票, 客运票, 出租车票, 定额, 通用机打发票
+
+*   [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+
+*   [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
+
+*   [binary-husky/gpt\_academic](https://github.com/binary-husky/gpt_academic) - 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。
+
+*   [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
+
+*   [gxcuizy/Python](https://github.com/gxcuizy/Python) - Python3编写的各种大小程序，包含从零学Python系列、12306抢票、省市区地址库以及系列网站爬虫等学习源码
+
+*   [doveppp/linuxdo-checkin](https://github.com/doveppp/linuxdo-checkin) - linux.do Daily Check-In. 每日签到，每日打卡
+
+*   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+
+*   [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
+
+*   [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) - Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
+
+*   [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly\_sunny: The right way to check the weather
+
+*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+
+*   [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。
+
+*   [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
+
+*   [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
+
+*   [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
+
+*   [wzdnzd/aggregator](https://github.com/wzdnzd/aggregator) - One-stop Proxies Crawling and Aggregation Platform
+
+## Shell
+
+*   [Alvin9999-newpac/fanqiang](https://github.com/Alvin9999-newpac/fanqiang) - 翻墙、免费翻墙、免费节点、科学上网、自由上网、一键翻墙浏览器、免费翻墙、免费shadowsocks/ss/ssr/v2ray/hysteria/hysteria2/vmess/vless/reality/goflyway账号/节点、cloudflare优选ip、fanqiang、Free VPN、chatgpt、免费科学上网、科学上网梯子、科学上网教程、油管youtube/视频下载、youtube油管镜像/免翻墙网站、美区apple id共享账号、VPN、免费翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙翻墙、翻墙、翻墙翻墙、翻墙翻墙
+
+*   [yonggekkk/argosbx](https://github.com/yonggekkk/argosbx) - 小白自建代理神器！ArgoSBX一键无交互小钢炮脚本💣：Sing-box、Xray、Argo三内核自动搭配；支持VPS、Docker、容器多环境部署；套CDN的5大方案+套WARP的15种组合；已支持协议：AnyTLS、Any-reality、Vless-xhttp-reality-vision-enc、Vless-tcp-reality-vision、Vless-xhttp-vision-enc、Vless-ws-vision-enc、Shadowsocks-2022、Hysteria2、Tuic、Socks5、Vmess-ws、Argo临时/固定隧道
+
+*   [yinmmhh/sb-nodejs](https://github.com/yinmmhh/sb-nodejs) - singbox-nodejs
+
+*   [eishare/tuic-hy2-node.js-python](https://github.com/eishare/tuic-hy2-node.js-python) - tuic hy2-nodejs+python
+
+*   [233boy/v2ray](https://github.com/233boy/v2ray) - 最好用的 V2Ray 一键安装脚本 & 管理脚本
+
+*   [aqzt/kjyw](https://github.com/aqzt/kjyw) - 快捷运维，代号kjyw，项目基于shell、python，运维脚本工具库，收集各类运维常用工具脚本，实现快速安装nginx、mysql、php、redis、nagios、运维经常使用的脚本等等...
+
+*   [xykt/NetQuality](https://github.com/xykt/NetQuality) - 网络质量检测脚本 - Network Quality Check Script
+
+*   [Flikify/Free-Node](https://github.com/Flikify/Free-Node) - 每小时更新最新的Clash、v2ray节点信息
+
+*   [jenv/jenv](https://github.com/jenv/jenv) - Manage your Java environment
+
+*   [oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts) - 🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.
+
+*   [tj/n](https://github.com/tj/n) - Node version management
+
+*   [dunwu/linux-tutorial](https://github.com/dunwu/linux-tutorial) - :penguin: Linux教程，主要内容：Linux 命令、Linux 系统运维、软件运维、精选常用Shell脚本
+
+*   [justonemorenight/Fix-Cursor-Too-many-free-trial-accounts-used-on-this-machine](https://github.com/justonemorenight/Fix-Cursor-Too-many-free-trial-accounts-used-on-this-machine) - Reset Trial Cursor
+
+*   [fuzhengwei/CodeGuide](https://github.com/fuzhengwei/CodeGuide) - :books: 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
+
+*   [wujun728/jun\_k8s\_docker](https://github.com/wujun728/jun_k8s_docker) - 一个拿来即用的docker镜像大礼包，直接构建docker镜像环境(docker、dockerfile、k8s、helm、shell and so on )，Linux运维工具及脚本，K8S构建，各种环境构建部署等，包括不限于于shell、python，运维脚本、docker脚本、各种工具库，收集各类运维常用工具脚本，实现快速安装nginx、mysql、pg、apache、php、redis、tomcat、gcc、gitlib、mq、dfs、k8s、jdk等
+
+*   [blackstar-baba/how-2-use-thingsboard](https://github.com/blackstar-baba/how-2-use-thingsboard) - Some docs help use thingsboard
 
 ## miscellaneous
 
@@ -571,168 +739,6 @@
 
 *   [WeiYe-Jing/datax-web](https://github.com/WeiYe-Jing/datax-web) - DataX集成可视化页面，选择数据源即可一键生成数据同步任务，支持RDBMS、Hive、HBase、ClickHouse、MongoDB等数据源，批量创建RDBMS数据同步任务，集成开源调度系统，支持分布式、增量同步数据、实时查看运行日志、监控执行器资源、KILL运行进程、数据源信息加密等。
 
-## Python
-
-*   [LorenEteval/Furious](https://github.com/LorenEteval/Furious) - A GUI proxy client based on PySide6. Support Xray-core & hysteria
-
-*   [ermaozi/get\_subscribe](https://github.com/ermaozi/get_subscribe) - ✈️ 白嫖免费机场  / 免费VPN -> 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，持续更新 | 科学上网 | 翻墙
-
-*   [shiyi-0x7f/o-lib](https://github.com/shiyi-0x7f/o-lib) - O-lib is a free and open-source software application for PC
-
-*   [r0ysue/r0capture](https://github.com/r0ysue/r0capture) - 安卓应用层抓包通杀脚本
-
-*   [WECENG/ticket-purchase](https://github.com/WECENG/ticket-purchase) - 大麦自动抢票，支持人员、城市、日期场次、价格选择
-
-*   [LemonQu-GIT/MurasamePet](https://github.com/LemonQu-GIT/MurasamePet) - Ciallo～ (∠・ω< )⌒★
-
-*   [itgoyo/python-binance](https://github.com/itgoyo/python-binance) - 币安实时价格监控+个人持仓受益终端查看神器
-
-*   [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
-
-*   [SwanHubX/SwanLab](https://github.com/SwanHubX/SwanLab) - ⚡️SwanLab - an open-source, modern-design AI training tracking and visualization tool. Supports Cloud / Self-hosted use. Integrated with PyTorch / Transformers / verl / LLaMA Factory / ms-swift / Ultralytics / MMEngine / Keras etc.
-
-*   [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - Simultaneous speech-to-text model
-
-*   [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
-
-*   [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
-
-*   [DaVinci-R/news-analysis-system](https://github.com/DaVinci-R/news-analysis-system) - 一个基于大语言模型的财经新闻自动获取、分析和可视化系统。该系统能够自动获取财联社新闻，使用大语言模型进行智能分析分类，并提供Web界面进行结果展示。
-
-*   [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R\&D process.
-
-*   [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
-
-*   [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
-
-*   [jaysonlong/webvideo-downloader](https://github.com/jaysonlong/webvideo-downloader) - Web video downloader for Bilibili, iQIYI, Tencent Video, MGTV and WeTV. 网站视频下载器，主要支持Bilibili、爱奇艺、腾讯视频、芒果TV、WeTV、愛奇藝台灣站。
-
-*   [wangshub/Douyin-Bot](https://github.com/wangshub/Douyin-Bot) - 😍 Python 抖音机器人，论如何在抖音上找到漂亮小姐姐？
-
-*   [wangshub/TechNews](https://github.com/wangshub/TechNews) - 利用 AI 自动生成 Hacker News 技术摘要并发送电子邮件简报。
-
-*   [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
-
-*   [hiddify/Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager) - Multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy.
-
-*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。
-
-*   [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing\_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
-
-*   [nashsu/FreeAskInternet](https://github.com/nashsu/FreeAskInternet) - FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will  make a multi engine search and combine the search result to LLM and generate the answer based on search results. It's all FREE to use.
-
-*   [lixi5338619/lxSpider](https://github.com/lixi5338619/lxSpider) - 爬虫案例合集。包括但不限于《淘宝、京东、天猫、豆瓣、抖音、快手、微博、微信、阿里、头条、pdd、优酷、爱奇艺、携程、12306、58、搜狐、各种指数、维普万方、Zlibraty、Oalib、小说、招标网、采购网、小红书、大众点评、推特、脉脉、知乎》
-
-*   [lixi5338619/magical\_spider](https://github.com/lixi5338619/magical_spider) - 神奇的蜘蛛🕷，一个几乎适用于所有web端站点的采集方案
-
-*   [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫
-
-*   [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
-
-*   [chatdoc-com/OCRFlux](https://github.com/chatdoc-com/OCRFlux) - OCRFlux is a lightweight yet powerful multimodal toolkit that significantly advances PDF-to-Markdown conversion, excelling in complex layout handling, complicated table parsing and cross-page content merging.
-
-*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-
-*   [robotframework/robotframework](https://github.com/robotframework/robotframework) - Generic automation framework for acceptance testing and RPA
-
-*   [Evil0ctal/Douyin\_TikTok\_Download\_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) - 🚀「Douyin\_TikTok\_Download\_API」是一个开箱即用的高性能异步抖音、快手、TikTok、Bilibili数据爬取工具，支持API调用，在线批量解析及下载。
-
-*   [chengaopan/AutoMergePublicNodes](https://github.com/chengaopan/AutoMergePublicNodes) - 自动抓取合并互联网上的公开节点。 🚀 免费节点,🚀免费节点订阅,🚀v2ray免费节点,ssr免费节点订阅,clash免费节点订阅,免费梯子,免费翻墙,免费科学上网,免费ss/v2ray/trojan/clash节点,谷歌商店,翻墙梯子
-
-*   [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake account)
-
-*   [qy527145/crack](https://github.com/qy527145/crack) -
-
-*   [joanrod/star-vector](https://github.com/joanrod/star-vector) - StarVector is a foundation model for SVG generation that transforms vectorization into a code generation task. Using a vision-language modeling architecture, StarVector processes both visual and textual inputs to produce high-quality SVG code with remarkable precision.
-
-*   [livid/v2ex-gae](https://github.com/livid/v2ex-gae) - Legacy code of V2EX running on Google App Engine
-
-*   [fly8888/cursor\_machine\_id](https://github.com/fly8888/cursor_machine_id) - 一键修改cursor 设备ID，解除设备锁定状态，为什么会有这个工具。。。因为我的设备被锁了。。。。
-
-*   [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
-
-*   [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
-
-*   [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
-
-*   [alisen39/TrWebOCR](https://github.com/alisen39/TrWebOCR) - 开源易用的中文离线OCR，识别率媲美大厂，并且提供了易用的web页面及web的接口，方便人类日常工作使用或者其他程序来调用~
-
-*   [jiaeyan/chinese-rhymer](https://github.com/jiaeyan/chinese-rhymer) - 轻量中文押韵神器，100%绝对可用，傻瓜式命令行操作，秒速实现烈焰单押，闪电双押，龙卷三押以及海啸式四押，目前版本 v0.2.6。Search for rhymes for Chinese words, with 1, 2, 3 and 4 characters, released on PyPI with current version of 0.2.6.
-
-*   [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
-
-*   [soimort/you-get](https://github.com/soimort/you-get) - :arrow\_double\_down: Dumb downloader that scrapes the web
-
-*   [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr) - 带带弟弟 通用验证码识别OCR pypi版
-
-*   [BlueSkyXN/AdGuardHomeRules](https://github.com/BlueSkyXN/AdGuardHomeRules) - 高达百万级规则！由我原创&整理的 AdGuardHomeRules ADH广告拦截过滤规则！打造全网最强最全规则集
-
-*   [zqq-nuli/auto-audio-book](https://github.com/zqq-nuli/auto-audio-book) - AI 有声书自动化生成工具
-
-*   [Yuukiy/JavSP](https://github.com/Yuukiy/JavSP) - 汇总多站点数据的AV元数据刮削器
-
-*   [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
-
-*   [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
-
-*   [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
-
-*   [geldata/gel](https://github.com/geldata/gel) - Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more.
-
-*   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
-
-*   [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
-
-*   [Zoupers/proxy-pool](https://github.com/Zoupers/proxy-pool) - One proxy-pool updated from https://github.com/jhao104/proxy\_pool
-
-*   [browser-use/web-ui](https://github.com/browser-use/web-ui) - 🖥️ Run AI Agent in your browser.
-
-*   [hmhm2022/gpt-cursor-auto](https://github.com/hmhm2022/gpt-cursor-auto) - Python脚本 一键获取 ChatGpt 的 Access Token，Cursor Pro 自动保活
-
-*   [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) -
-
-*   [injetlee/Python](https://github.com/injetlee/Python) - Python脚本。模拟登录知乎， 爬虫，操作excel，微信公众号，远程开机
-
-*   [xxnuo/MusicFreePluginsHub](https://github.com/xxnuo/MusicFreePluginsHub) - MusicFree 源插件订阅聚合器 - 订阅全网大全
-
-*   [X-T-E-R/my-little-ocr](https://github.com/X-T-E-R/my-little-ocr) - MyLittleOCR 是一个统一的 OCR 库包装器，提供一致的 API，便于集成和切换多个 OCR 引擎。     MyLittleOCR is a unified OCR wrapper providing a consistent API for seamless integration and switching between multiple OCR engines.
-
-*   [Ucas-HaoranWei/GOT-OCR2.0](https://github.com/Ucas-HaoranWei/GOT-OCR2.0) - Official code implementation of General OCR Theory:  Towards OCR-2.0 via a Unified End-to-end Model
-
-*   [384863451/invoice\_ocr](https://github.com/384863451/invoice_ocr) - 混合票据识别,增值税专用发票, 增值税普通发票, 增值税电子专用发票, 增值税电子普通发票, 增值税普通发票（卷式）, 非税财政电子票据, 过路费发票, 火车票, 飞机票, 客运票, 出租车票, 定额, 通用机打发票
-
-*   [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-
-*   [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
-
-*   [binary-husky/gpt\_academic](https://github.com/binary-husky/gpt_academic) - 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。
-
-*   [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
-
-*   [gxcuizy/Python](https://github.com/gxcuizy/Python) - Python3编写的各种大小程序，包含从零学Python系列、12306抢票、省市区地址库以及系列网站爬虫等学习源码
-
-*   [doveppp/linuxdo-checkin](https://github.com/doveppp/linuxdo-checkin) - linux.do Daily Check-In. 每日签到，每日打卡
-
-*   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-
-*   [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
-
-*   [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) - Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
-
-*   [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly\_sunny: The right way to check the weather
-
-*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-
-*   [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。
-
-*   [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
-
-*   [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
-
-*   [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
-
-*   [wzdnzd/aggregator](https://github.com/wzdnzd/aggregator) - One-stop Proxies Crawling and Aggregation Platform
-
 ## Go
 
 *   [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
@@ -791,7 +797,7 @@
 
 *   [ycvk/deeplx-local](https://github.com/ycvk/deeplx-local) - 自建deeplx服务
 
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
 *   [FloatTech/ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 
@@ -834,6 +840,8 @@
 *   [ant-motion/fengdie-landing-page](https://github.com/ant-motion/fengdie-landing-page) - fengdie landing page
 
 *   [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code, Cursor CLI or Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely
+
+*   [imzyb/MiSub](https://github.com/imzyb/MiSub) - 测试站，密码admin123
 
 *   [RavelloH/EverydayNews](https://github.com/RavelloH/EverydayNews) - 新版的EverydayNews，存储2022/06/04至今的所有每日60s新闻，以JSON格式存放，每日更新，自带搜索功能，可RSS订阅，提供API
 
@@ -969,11 +977,9 @@
 
 *   [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) - 翻墙-科学上网
 
-*   [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
-
 ## HTML
 
-*   [Jsnzkpg/Jsnzkpg](https://github.com/Jsnzkpg/Jsnzkpg) - 已持续维护4年多，每天都会检测可用性，全网质量最高的免费节点订阅，魔鬼式筛选出高质量的免费节点，shadowrocket丨stash丨singbox丨clash丨karing丨hiddify丨mihomo丨clashmi丨ClashMeta丨FIClash丨Surfboard
+*   [Jsnzkpg/Jsnzkpg](https://github.com/Jsnzkpg/Jsnzkpg) - 已持续维护5年多，每天都会检测可用性，全网质量最高的免费节点订阅，魔鬼式筛选出高质量的免费节点，shadowrocket丨stash丨singbox丨clash丨karing丨hiddify丨mihomo丨clashmi丨ClashMeta丨FIClash丨Surfboard
 
 *   [YangH9/ChinaCalendar](https://github.com/YangH9/ChinaCalendar) - 中华人民共和国节日、纪念日、假日调休、二十四节气、天干地支农历日历
 
@@ -1093,8 +1099,6 @@
 
 *   [Zealon159/easy-notes-client](https://github.com/Zealon159/easy-notes-client) - :lemon: 简笔记（easy notes）客户端，基于  Vue.js 、Ant Design  开发。
 
-*   [imzyb/MiSub](https://github.com/imzyb/MiSub) - 测试站，密码admin123
-
 *   [valarchie/AgileBoot-Front-End-Basic](https://github.com/valarchie/AgileBoot-Front-End-Basic) - 基于Ruoyi的改良版前端基础开发框架。
 
 *   [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
@@ -1163,15 +1167,11 @@
 
 *   [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 
-*   [agentcodee/cursor-free-everyday](https://github.com/agentcodee/cursor-free-everyday) - 完全免费, 自动获取新账号,一键重置新额度,  解决机器码问题, 自动满额度
-
 *   [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
 
 *   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 
 *   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
-
-*   [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω< )⌒☆​
 
 ## C
 
