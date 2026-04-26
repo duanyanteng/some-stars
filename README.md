@@ -22,6 +22,7 @@
 *   [Go](#go)
 *   [C#](#c)
 *   [Vue](#vue)
+*   [CSS](#css)
 *   [Dockerfile](#dockerfile)
 *   [Batchfile](#batchfile)
 *   [Dart](#dart)
@@ -33,12 +34,11 @@
 *   [PowerShell](#powershell)
 *   [Objective-C](#objective-c)
 *   [Jupyter Notebook](#jupyter-notebook)
-*   [CSS](#css)
 *   [Roff](#roff)
 *   [Jinja](#jinja)
 *   [PLpgSQL](#plpgsql)
 *   [PHP](#php)
-*   [Smarty](#smarty)
+*   [Go Template](#go-template)
 *   [Less](#less)
 *   [Markdown](#markdown)
 *   [MDX](#mdx)
@@ -394,7 +394,7 @@
 
 *   [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code) - 原汁原昧 Claude Code 可运行,可构建, 可调试版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动
 
-*   [paoloanzn/free-code](https://github.com/paoloanzn/free-code) - \[NOTE] Parent repo is migrating ownership, until the operation is done this repo is blocked. The free build of Claude Code. All telemetry removed, security-prompt guardrails stripped, all experimental features enabled.
+*   [paoloanzn/free-code](https://github.com/paoloanzn/free-code) - The free build of Claude Code. All telemetry removed, security-prompt guardrails stripped, all experimental features enabled.
 
 *   [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 
@@ -480,8 +480,6 @@
 
 *   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 
-*   [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 跨平台互动桌宠 BongoCat，为桌面增添乐趣！
-
 *   [1600822305/AetherLink](https://github.com/1600822305/AetherLink) - AetherLink is a cross-platform AI assistant application that supports multiple mainstream AI models (OpenAI, Google Gemini, Anthropic Claude, Grok, etc.). Built with React, TypeScript, and Capacitor, it delivers a seamless conversational experience. Key features include customizable model configurations, multi-topic chat management, AI reasoning vi
 
 *   [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
@@ -508,7 +506,9 @@
 
 *   [CherryHQ/cherry-studio-app](https://github.com/CherryHQ/cherry-studio-app) - 🍒 This is the mobile version of Cherry Studio.
 
-*   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+*   [aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) - "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / browser) app for Windows and Linux.
+
+*   [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 *   [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 
@@ -569,8 +569,6 @@
 *   [029danio/fly](https://github.com/029danio/fly) - 机场推荐2026｜机场节点 | 分享翻墙机场推荐 | 好用稳定机场节点 | 机场评测 | 秒杀VPN
 
 *   [kevinho/clawfeed](https://github.com/kevinho/clawfeed) - ClawFeed — AI-powered news digest with structured summaries from Twitter/RSS feeds and web dashboard
-
-*   [YangH9/ChinaCalendar](https://github.com/YangH9/ChinaCalendar) - 中华人民共和国节日、纪念日、假日调休、二十四节气、天干地支农历日历
 
 *   [OldSuns/SnapLock](https://github.com/OldSuns/SnapLock) - 一款智能安全工具，离开时自动监控并拍照锁屏防止他人操作电脑
 
@@ -748,7 +746,7 @@
 
 ## Java
 
-*   [DetachHead/rebased](https://github.com/DetachHead/rebased) - An open-source remake of the short-lived jetbrains git client
+*   [DetachHead/rebased](https://github.com/DetachHead/rebased) - A git client based on the IntelliJ platform
 
 *   [TGX-Android/Telegram-X](https://github.com/TGX-Android/Telegram-X) - The main repository of Telegram X — official alternative Telegram client for Android.
 
@@ -778,7 +776,7 @@
 
 *   [jd-opensource/joyagent-jdgenie](https://github.com/jd-opensource/joyagent-jdgenie) - 开源的端到端产品级通用智能体
 
-*   [fushengqian/fuintCatering](https://github.com/fushengqian/fuintCatering) - fuint餐饮点餐营销系统，支持多租户SaaS模式，提供包括小程序扫码点餐、收银、餐食配餐、厨房kds、食材采购、餐饮卡券、积分、储值会员营销等一体化的功能，为奶茶店，甜品店，餐厅，食堂，咖啡厅，小吃店等实体餐饮店铺管理提供一站式解决方案。官网:https://www.fuint.cn，感谢关注！
+*   [fushengqian/fuintCatering](https://github.com/fushengqian/fuintCatering) - fuint餐饮点餐营销系统，支持多租户SaaS模式，已对接扫码枪、云打印小票、标签打印，提供包括小程序扫码点餐、收银、餐食配餐、厨房kds、食材采购、餐饮卡券、积分、储值会员营销等一体化的功能，为奶茶店，甜品店，餐厅，火锅店，食堂，咖啡厅，小吃店等实体餐饮店铺管理提供一站式解决方案。官网:https://www.fuint.cn，感谢关注！
 
 *   [Zealon159/easy-notes](https://github.com/Zealon159/easy-notes) - :lemon: 简笔记（easy notes）打造你的轻便私人笔记。接口涉及Spring Security、OAuth2、Jwt、MongoDB，客户端采用 Vue.js 、Ant Design
 
@@ -900,7 +898,7 @@
 
 *   [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 
-*   [Alvin9999-newpac/fanqiang](https://github.com/Alvin9999-newpac/fanqiang) - 免费翻墙、免费科学上网、翻墙翻墙、科学上网、Mac/iOS/安卓翻墙、翻墙翻墙、自由上网、 一键翻墙浏览器、免费shadowsocks/ss/ssr/v2ray/hysteria/hysteria2/vmess/vless/reality/goflyway账号/节点、fanqiang、翻墙翻墙、科学上网、翻墙翻墙翻墙翻墙翻墙翻墙翻墙、 翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网 翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网 翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网 翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网 翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网翻墙翻墙翻墙
+*   [Alvin9999-newpac/fanqiang](https://github.com/Alvin9999-newpac/fanqiang) - 免费翻墙、免费科学上网、翻墙翻墙、科学上网、Mac/iOS/安卓翻墙、翻墙翻墙、自由上网、 一键翻墙浏览器、免费shadowsocks/ss/ssr/v2ray/hysteria/hysteria2/vmess/vless/reality/goflyway账号/节点、fanqiang、翻墙翻墙、科学上网、翻墙翻墙翻墙翻墙翻墙翻墙翻墙、 翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网 翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网 翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网 翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网 翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网翻墙翻墙翻墙翻墙
 
 *   [yonggekkk/argosbx](https://github.com/yonggekkk/argosbx) - 小白自建代理神器！ArgoSBX一键无交互小钢炮脚本💣：Sing-box、Xray、Argo三内核自动搭配；支持VPS、Docker、容器多环境部署；套CDN的5大方案+套WARP的15种组合；已支持协议：AnyTLS、Any-reality、Vless-xhttp-reality-vision-enc、Vless-tcp-reality-vision、Vless-xhttp-vision-enc、Vless-ws-vision-enc、Shadowsocks-2022、Hysteria2、Tuic、Socks5、Vmess-ws、Argo临时/固定隧道
 
@@ -1124,6 +1122,8 @@
 
 *   [geekgeekrun/geekgeekrun](https://github.com/geekgeekrun/geekgeekrun) - 牛人快跑 - GeekGeekRun，求职找工作自动化工具，基于 Puppeteer、Electron。界面友好，简单易用！开源，免费！快速海投、自动开聊、已读不回提醒、职位信息抓取、不合适职位标记、僵尸职位清理；让你即刻变身成为一台冇得感情的求职机器🤖，找工作不内耗。宝宝不用动，妈妈全自动~祝你收获好Offer！
 
+*   [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 跨平台互动桌宠 BongoCat，为桌面增添乐趣！
+
 *   [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) - 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制
 
 *   [StavinLi/Workflow](https://github.com/StavinLi/Workflow) - 仿钉钉审批流程设置
@@ -1138,8 +1138,6 @@
 
 *   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 
-*   [aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) - "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / browser) app for Windows and Linux.
-
 *   [continew-org/continew-admin-ui](https://github.com/continew-org/continew-admin-ui) - 全新 3.x 版本，基于 Gi Demo 前端模板开发的 ContiNew Admin 前端适配项目。
 
 *   [rymcu/nebula](https://github.com/rymcu/nebula) - nebula(星云)——一款现代化的知识社区前台项目，使用 Vue + NuxtJS + Element-UI 实现
@@ -1153,6 +1151,14 @@
 *   [yimogit/metools](https://github.com/yimogit/metools) - 个人工具站点
 
 *   [imsyy/DailyHot](https://github.com/imsyy/DailyHot) - DailyHot 今日热榜前端页面 | API：https://github.com/imsyy/DailyHotApi
+
+## CSS
+
+*   [YangH9/ChinaCalendar](https://github.com/YangH9/ChinaCalendar) - 中华人民共和国节日、纪念日、假日调休、二十四节气、天干地支农历日历
+
+*   [ChatBot-All/chatbot-app](https://github.com/ChatBot-All/chatbot-app) - "ChatBot" AI application, supporting GPT,  Gemini Pro, Cohere & Ollama models
+
+*   [Akifyss/obsidian-border](https://github.com/Akifyss/obsidian-border) - A theme for obsidian.md
 
 ## Dockerfile
 
@@ -1212,7 +1218,7 @@
 
 *   [eclipse-sumo/sumo](https://github.com/eclipse-sumo/sumo) - Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation.
 
-*   [facontidavide/PlotJuggler](https://github.com/facontidavide/PlotJuggler) - The Time Series Visualization Tool that you deserve.
+*   [PlotJuggler/PlotJuggler](https://github.com/PlotJuggler/PlotJuggler) - The Time Series Visualization Tool that you deserve.
 
 *   [uazo/cromite](https://github.com/uazo/cromite) - Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!
 
@@ -1266,12 +1272,6 @@
 
 *   [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 
-## CSS
-
-*   [ChatBot-All/chatbot-app](https://github.com/ChatBot-All/chatbot-app) - "ChatBot" AI application, supporting GPT,  Gemini Pro, Cohere & Ollama models
-
-*   [Akifyss/obsidian-border](https://github.com/Akifyss/obsidian-border) - A theme for obsidian.md
-
 ## Roff
 
 *   [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
@@ -1290,7 +1290,7 @@
 
 *   [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
 
-## Smarty
+## Go Template
 
 *   [opsre/awesome-ops](https://github.com/opsre/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 651 个。
 
