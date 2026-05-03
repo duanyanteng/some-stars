@@ -10,11 +10,12 @@
 
 ## Table of Contents
 
+*   [Dart](#dart)
+*   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
 *   [Python](#python)
 *   [TypeScript](#typescript)
 *   [HTML](#html)
-*   [JavaScript](#javascript)
 *   [Java](#java)
 *   [Shell](#shell)
 *   [Rust](#rust)
@@ -25,7 +26,6 @@
 *   [CSS](#css)
 *   [Dockerfile](#dockerfile)
 *   [Batchfile](#batchfile)
-*   [Dart](#dart)
 *   [C](#c-1)
 *   [WebAssembly](#webassembly)
 *   [C++](#c-2)
@@ -43,6 +43,162 @@
 *   [Markdown](#markdown)
 *   [MDX](#mdx)
 *   [Adblock Filter List](#adblock-filter-list)
+
+## Dart
+
+*   [serious-snow/HE-Music-Flutter](https://github.com/serious-snow/HE-Music-Flutter) - HE-Music Flutter版本，主要为移动端
+
+*   [Kindness-Kismet/Stelliberty](https://github.com/Kindness-Kismet/Stelliberty) - A modern client built with Flutter and Rust, powered by Mihomo
+
+*   [simplezhli/flutter\_deer](https://github.com/simplezhli/flutter_deer) - 🦌 Flutter 练习项目(包括集成测试、可访问性测试)。内含完整UI设计图，更贴近真实项目的练习。Flutter practice project (including integration testing and accessibility testing). Contains complete UI design drawings for a more realistic practice project.
+
+*   [alesimula/wsa\_pacman](https://github.com/alesimula/wsa_pacman) - A GUI package manager and package installer for Windows Subsystem for Android (WSA)
+
+*   [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
+
+## JavaScript
+
+*   [QLHazyCoder/codex-oauth-automation-extension](https://github.com/QLHazyCoder/codex-oauth-automation-extension) - Chrome扩展：支持OpenAI OAuth注册(自动开通plus账号)、验证码获取、CPA/sub/cpdex2api回调验证与自动恢复
+
+*   [rehuan/AI-ANSWER-ASSISTANT](https://github.com/rehuan/AI-ANSWER-ASSISTANT) - 一个智能的浏览器答题插件，能够自动识别网页中的题目（单选、多选、填空题），通过AI大模型获取答案并自动填写。
+
+*   [Xwudao/lzpan\_search](https://github.com/Xwudao/lzpan_search) - 懒盘搜索 短剧网盘搜索引擎源码：百度网盘、阿里云盘、夸克网盘、迅雷网盘
+
+*   [DJB-Developer/wechat-android-history-versions](https://github.com/DJB-Developer/wechat-android-history-versions) - 微信Android 微信安卓版 微信安卓 历史版本 官方下载地址
+
+*   [mswnlz/movies](https://github.com/mswnlz/movies) - 影视媒体资源，电影，记录片，音乐，演唱会等等，持续更新中
+
+*   [Loveyless/stock-indicator-backtest](https://github.com/Loveyless/stock-indicator-backtest) - 股票量化助手，根据量化策略生成股票收益报告。
+
+*   [gnmyt/MySpeed](https://github.com/gnmyt/MySpeed) - A speed test analysis software that shows your internet speed for up to 30 days
+
+*   [Jsnzkpg/Jsnzkpg](https://github.com/Jsnzkpg/Jsnzkpg) - 已持续维护5年多，每天都会检测可用性，全网质量最高的免费节点订阅，魔鬼式筛选出高质量的免费节点，shadowrocket丨stash丨singbox丨clash丨karing丨hiddify丨mihomo丨clashmi丨ClashMeta丨FIClash丨Surfboard
+
+*   [ZipZhu/Flclash-scripts](https://github.com/ZipZhu/Flclash-scripts) - A repository for Flclash scripts
+
+*   [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
+
+*   [Feather-2/Burner-X](https://github.com/Feather-2/Burner-X) - Burner X - 浏览器即开即用，AI文献识别、文档批量翻译、阅读与智能分析工具 丨BYOK
+
+*   [cmliu/CF-Workers-SUB](https://github.com/cmliu/CF-Workers-SUB) - 这个是一个通过 Cloudflare Workers 搭建，将你任意节点与多个订阅汇聚成专属于你的订阅链接
+
+*   [ciiiii/cloudflare-docker-proxy](https://github.com/ciiiii/cloudflare-docker-proxy) -  A docker registry proxy run on cloudflare worker.
+
+*   [cyao2q/files](https://github.com/cyao2q/files) - TVBox开源版,盒子软件分享
+
+*   [qist/tvbox](https://github.com/qist/tvbox) - OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。
+
+*   [youhunwl/TVAPP](https://github.com/youhunwl/TVAPP) -  收集全网 Android TV电视盒子应用，涵盖影视、直播、K歌、工具、游戏等类型，整理优质APK资源，支持便捷下载与自动更新。提供安全验证、分类索引与兼容性标注，助力用户打造家庭影音娱乐中心！              ✅ TVBox/影视仓等影音壳接口配置源。
+
+*   [maillab/cloud-mail](https://github.com/maillab/cloud-mail) - A Cloudflare-based email service  | 基于 Cloudflare 的邮箱服务  | Cloudflare Email 邮箱 Mail
+
+*   [hexianWeb/CubeCity](https://github.com/hexianWeb/CubeCity) - A city waiting to be built by you 🏙️🔨✨. Threejs Version (一个等着被你建造的城市)
+
+*   [XIU2/UserScript](https://github.com/XIU2/UserScript) - 🐵 自用的一些乱七八糟 油猴脚本~
+
+*   [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) - 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
+
+*   [0xsdeo/AntiDebug\_Breaker](https://github.com/0xsdeo/AntiDebug_Breaker) - JavaScript Reverse Tools -- JS逆向工具
+
+*   [ant-motion/fengdie-landing-page](https://github.com/ant-motion/fengdie-landing-page) - fengdie landing page
+
+*   [imzyb/MiSub](https://github.com/imzyb/MiSub) - 测试站，密码admin123
+
+*   [RavelloH/EverydayNews](https://github.com/RavelloH/EverydayNews) - 新版的EverydayNews，存储2022/06/04至今的所有每日60s新闻，以JSON格式存放，每日更新，自带搜索功能，可RSS订阅，提供API
+
+*   [EastWorld/wechat-app-mall](https://github.com/EastWorld/wechat-app-mall) - 微信小程序商城，微信小程序微店
+
+*   [nikkinikki-org/OpenWrt-nikki](https://github.com/nikkinikki-org/OpenWrt-nikki) - Transparent Proxy with Mihomo on OpenWrt.
+
+*   [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
+
+*   [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV) - 一分钟搭建影视站，支持Vercel/Docker等部署方式
+
+*   [skillnull/DeviceJs](https://github.com/skillnull/DeviceJs) - JS获取设备信息(操作系统信息、地理位置、UUID、横竖屏状态、设备类型、网络状态、浏览器信息、生成浏览器指纹、日期、生肖、周几等)
+
+*   [fanmingming/live](https://github.com/fanmingming/live) - ✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕
+
+*   [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
+
+*   [Kenshin/simpread](https://github.com/Kenshin/simpread) - 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
+
+*   [bytedance/xgplayer](https://github.com/bytedance/xgplayer) - A HTML5 video player with a parser that saves traffic
+
+*   [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
+
+*   [moshang-ax/lottery](https://github.com/moshang-ax/lottery) - 🎉🌟✨🎈年会抽奖程序，基于 Express + Three.js的 3D 球体抽奖程序，奖品🧧🎁，文字，图片，抽奖规则均可配置，😜抽奖人员信息Excel一键导入😍，抽奖结果Excel导出😎，给你的抽奖活动带来全新酷炫体验🚀🚀🚀
+
+*   [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
+
+*   [notifme/notifme-sdk](https://github.com/notifme/notifme-sdk) - A Node.js library to send all kinds of transactional notifications.
+
+*   [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~  ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
+
+*   [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
+
+*   [lieying8/sync](https://github.com/lieying8/sync) - 自用好几年了，从未间断，很好用。
+
+*   [StrayMeteor3337/WechatRealFriends](https://github.com/StrayMeteor3337/WechatRealFriends) - 微信好友关系一键检测，基于微信ipad协议，看看有没有朋友偷偷删掉或者拉黑你
+
+*   [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 🚀🚀🚀A faster, better and more stable Redis desktop manager \[GUI client], compatible with Linux, Windows, Mac.
+
+*   [xxnuo/serverless-qrcode-hub](https://github.com/xxnuo/serverless-qrcode-hub) - 苦于微信群聊二维码频繁变动，开发这个能生成永久二维码的工具，仅需后台统一更新新二维码。不需要服务器。也可作为 URL 缩短链接服务使用。
+
+*   [beclass/wxbot](https://github.com/beclass/wxbot) - 微信机器人，个人微信号小助手平台， nodejs+nuxt + wechaty 技术栈
+
+*   [kkzhilu/Code-Generate](https://github.com/kkzhilu/Code-Generate) -  🚀  一个基于原生Mysql & SpringBoot & Mybatis 的代码生成器，建表之后即可完全解放双手
+
+*   [zhongshaofa/layuimini](https://github.com/zhongshaofa/layuimini) - 后台admin前端模板，基于 layui 编写的最简洁、易用的后台框架模板。只需提供一个接口就直接初始化整个框架，无需复杂操作。
+
+*   [didi/cube-ui](https://github.com/didi/cube-ui) - :large\_orange\_diamond: A fantastic mobile ui lib implement by Vue
+
+*   [Tencent/tdesign-miniprogram-starter-retail](https://github.com/Tencent/tdesign-miniprogram-starter-retail) - TDesign - 微信小程序 - 零售行业模板
+
+*   [journey-ad/Moe-Counter](https://github.com/journey-ad/Moe-Counter) - Moe counter badge with multiple themes! - 多种风格可选的萌萌计数器
+
+*   [dromara/electron-egg](https://github.com/dromara/electron-egg) - A simple, cross platform, enterprise desktop software development framework
+
+*   [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
+
+*   [zhaotoday/element-plus](https://github.com/zhaotoday/element-plus) - 基于 Vue3 + Element Plus 的后台管理系统。
+
+*   [deepshit2025/tuboshu](https://github.com/deepshit2025/tuboshu) - Transform Your Favorite Websites into Seamless Desktop Experiences✨!   把常用的网站集合到一个桌面程序里。
+
+*   [minbrowser/min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
+
+*   [weui/react-weui](https://github.com/weui/react-weui) - weui for react
+
+*   [timqian/openprompt.co](https://github.com/timqian/openprompt.co) - Create. Use. Share. ChatGPT prompts
+
+*   [Angels-Ray/fake-cursor](https://github.com/Angels-Ray/fake-cursor) - 一个用于重新生成 Cursor 设备 ID 和设置 Access Token 的 Cursor 扩展
+
+*   [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
+
+*   [satrong/node-webcrawler](https://github.com/satrong/node-webcrawler) - 网页版nodejs爬虫工具
+
+*   [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
+
+*   [bestK/cursor-fake-machine](https://github.com/bestK/cursor-fake-machine) -
+
+*   [aglent/autoproxy](https://github.com/aglent/autoproxy) - Auto Switch Rule for SwitchyOmega
+
+*   [Huibq/keep-alive](https://github.com/Huibq/keep-alive) - 洛雪音乐音源、MusicFree音源、落雪音乐音源
+
+*   [codeudan/crawler-china-mainland-universities](https://github.com/codeudan/crawler-china-mainland-universities) - 中国大陆大学列表爬虫
+
+*   [cambecc/earth](https://github.com/cambecc/earth) - a project to visualize global weather conditions
+
+*   [zjmkkk/Serv00\_CT8\_Auto\_Login](https://github.com/zjmkkk/Serv00_CT8_Auto_Login) - Serv00-CT8 - 免费主机自动登录续期
+
+*   [hoothin/SearchJumper](https://github.com/hoothin/SearchJumper) - Yet another awesome browser extension for switching search engines, search everything (selection text / image / link / find in page) on any engine with a simple right click or a variety of menus and shortcuts. Build with React & Material-UI. (WIP).
+
+*   [xiangyuecn/AreaCity-JsSpider-StatsGov](https://github.com/xiangyuecn/AreaCity-JsSpider-StatsGov) - 省市区县乡镇三级或四级城市数据，带拼音标注、坐标、行政区域边界范围；2026年04月03日最新采集，提供csv格式文件，支持在线转成多级联动js代码、通用json格式，提供软件转成shp、geojson、sql、导入数据库；带浏览器里面运行的js采集源码，综合了中华人民共和国民政部、中国•国家地名信息库、统计局、高德地图、腾讯地图行政区划数据
+
+*   [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
+
+*   [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf) - Control and manage Android devices from your browser.
+
+*   [vaxilu/x-ui](https://github.com/vaxilu/x-ui) - 支持多协议多用户的 xray 面板
 
 ## miscellaneous
 
@@ -382,8 +538,6 @@
 
 *   [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly\_sunny: The right way to check the weather
 
-*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-
 ## TypeScript
 
 *   [oiov/vmail](https://github.com/oiov/vmail) - 📫 只需一个域名部署临时邮箱到 Cloudflare Worker，使用 D1 保存数据，支持多域名后缀，密码找回，开放API接口。
@@ -494,7 +648,7 @@
 
 *   [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 
-*   [neovateai/petercat](https://github.com/neovateai/petercat) - A conversational Q\&A agent configuration system, self-hosted deployment solutions, and a convenient all-in-one application SDK, allowing you to create intelligent Q\&A bots for your GitHub repositories
+*   [afx-team/petercat](https://github.com/afx-team/petercat) - A conversational Q\&A agent configuration system, self-hosted deployment solutions, and a convenient all-in-one application SDK, allowing you to create intelligent Q\&A bots for your GitHub repositories
 
 *   [muxinc/media-chrome](https://github.com/muxinc/media-chrome) - Custom elements (web components) for making audio and video player controls that look great in your website or app.
 
@@ -601,148 +755,6 @@
 *   [netnr/kms](https://github.com/netnr/kms) - KMS 激活服务，slmgr 命令激活 Windows 系统、Office
 
 *   [CHYbeta/Web-Security-Learning](https://github.com/CHYbeta/Web-Security-Learning) - Web-Security-Learning
-
-## JavaScript
-
-*   [rehuan/AI-ANSWER-ASSISTANT](https://github.com/rehuan/AI-ANSWER-ASSISTANT) - 一个智能的浏览器答题插件，能够自动识别网页中的题目（单选、多选、填空题），通过AI大模型获取答案并自动填写。
-
-*   [Xwudao/lzpan\_search](https://github.com/Xwudao/lzpan_search) - 懒盘搜索 短剧网盘搜索引擎源码：百度网盘、阿里云盘、夸克网盘、迅雷网盘
-
-*   [DJB-Developer/wechat-android-history-versions](https://github.com/DJB-Developer/wechat-android-history-versions) - 微信Android 微信安卓版 微信安卓 历史版本 官方下载地址
-
-*   [mswnlz/movies](https://github.com/mswnlz/movies) - 影视媒体资源，电影，记录片，音乐，演唱会等等，持续更新中
-
-*   [Loveyless/stock-indicator-backtest](https://github.com/Loveyless/stock-indicator-backtest) - 股票量化助手，根据量化策略生成股票收益报告。
-
-*   [gnmyt/MySpeed](https://github.com/gnmyt/MySpeed) - A speed test analysis software that shows your internet speed for up to 30 days
-
-*   [Jsnzkpg/Jsnzkpg](https://github.com/Jsnzkpg/Jsnzkpg) - 已持续维护5年多，每天都会检测可用性，全网质量最高的免费节点订阅，魔鬼式筛选出高质量的免费节点，shadowrocket丨stash丨singbox丨clash丨karing丨hiddify丨mihomo丨clashmi丨ClashMeta丨FIClash丨Surfboard
-
-*   [ZipZhu/Flclash-scripts](https://github.com/ZipZhu/Flclash-scripts) - A repository for Flclash scripts
-
-*   [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
-
-*   [Feather-2/Burner-X](https://github.com/Feather-2/Burner-X) - Burner X - 浏览器即开即用，AI文献识别、文档批量翻译、阅读与智能分析工具 丨BYOK
-
-*   [cmliu/CF-Workers-SUB](https://github.com/cmliu/CF-Workers-SUB) - 这个是一个通过 Cloudflare Workers 搭建，将你任意节点与多个订阅汇聚成专属于你的订阅链接
-
-*   [ciiiii/cloudflare-docker-proxy](https://github.com/ciiiii/cloudflare-docker-proxy) -  A docker registry proxy run on cloudflare worker.
-
-*   [cyao2q/files](https://github.com/cyao2q/files) - TVBox开源版,盒子软件分享
-
-*   [qist/tvbox](https://github.com/qist/tvbox) - OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。
-
-*   [youhunwl/TVAPP](https://github.com/youhunwl/TVAPP) -  收集全网 Android TV电视盒子应用，涵盖影视、直播、K歌、工具、游戏等类型，整理优质APK资源，支持便捷下载与自动更新。提供安全验证、分类索引与兼容性标注，助力用户打造家庭影音娱乐中心！              ✅ TVBox/影视仓等影音壳接口配置源。
-
-*   [maillab/cloud-mail](https://github.com/maillab/cloud-mail) - A Cloudflare-based email service  | 基于 Cloudflare 的邮箱服务  | Cloudflare Email 邮箱 Mail
-
-*   [hexianWeb/CubeCity](https://github.com/hexianWeb/CubeCity) - A city waiting to be built by you 🏙️🔨✨. Threejs Version (一个等着被你建造的城市)
-
-*   [XIU2/UserScript](https://github.com/XIU2/UserScript) - 🐵 自用的一些乱七八糟 油猴脚本~
-
-*   [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) - 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
-
-*   [0xsdeo/AntiDebug\_Breaker](https://github.com/0xsdeo/AntiDebug_Breaker) - JavaScript Reverse Tools -- JS逆向工具
-
-*   [ant-motion/fengdie-landing-page](https://github.com/ant-motion/fengdie-landing-page) - fengdie landing page
-
-*   [imzyb/MiSub](https://github.com/imzyb/MiSub) - 测试站，密码admin123
-
-*   [RavelloH/EverydayNews](https://github.com/RavelloH/EverydayNews) - 新版的EverydayNews，存储2022/06/04至今的所有每日60s新闻，以JSON格式存放，每日更新，自带搜索功能，可RSS订阅，提供API
-
-*   [EastWorld/wechat-app-mall](https://github.com/EastWorld/wechat-app-mall) - 微信小程序商城，微信小程序微店
-
-*   [nikkinikki-org/OpenWrt-nikki](https://github.com/nikkinikki-org/OpenWrt-nikki) - Transparent Proxy with Mihomo on OpenWrt.
-
-*   [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
-
-*   [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV) - 一分钟搭建影视站，支持Vercel/Docker等部署方式
-
-*   [skillnull/DeviceJs](https://github.com/skillnull/DeviceJs) - JS获取设备信息(操作系统信息、地理位置、UUID、横竖屏状态、设备类型、网络状态、浏览器信息、生成浏览器指纹、日期、生肖、周几等)
-
-*   [fanmingming/live](https://github.com/fanmingming/live) - ✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕
-
-*   [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
-
-*   [Kenshin/simpread](https://github.com/Kenshin/simpread) - 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
-
-*   [bytedance/xgplayer](https://github.com/bytedance/xgplayer) - A HTML5 video player with a parser that saves traffic
-
-*   [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
-
-*   [moshang-ax/lottery](https://github.com/moshang-ax/lottery) - 🎉🌟✨🎈年会抽奖程序，基于 Express + Three.js的 3D 球体抽奖程序，奖品🧧🎁，文字，图片，抽奖规则均可配置，😜抽奖人员信息Excel一键导入😍，抽奖结果Excel导出😎，给你的抽奖活动带来全新酷炫体验🚀🚀🚀
-
-*   [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
-
-*   [notifme/notifme-sdk](https://github.com/notifme/notifme-sdk) - A Node.js library to send all kinds of transactional notifications.
-
-*   [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~  ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
-
-*   [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
-
-*   [lieying8/sync](https://github.com/lieying8/sync) - 自用好几年了，从未间断，很好用。
-
-*   [StrayMeteor3337/WechatRealFriends](https://github.com/StrayMeteor3337/WechatRealFriends) - 微信好友关系一键检测，基于微信ipad协议，看看有没有朋友偷偷删掉或者拉黑你
-
-*   [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 🚀🚀🚀A faster, better and more stable Redis desktop manager \[GUI client], compatible with Linux, Windows, Mac.
-
-*   [xxnuo/serverless-qrcode-hub](https://github.com/xxnuo/serverless-qrcode-hub) - 苦于微信群聊二维码频繁变动，开发这个能生成永久二维码的工具，仅需后台统一更新新二维码。不需要服务器。也可作为 URL 缩短链接服务使用。
-
-*   [beclass/wxbot](https://github.com/beclass/wxbot) - 微信机器人，个人微信号小助手平台， nodejs+nuxt + wechaty 技术栈
-
-*   [kkzhilu/Code-Generate](https://github.com/kkzhilu/Code-Generate) -  🚀  一个基于原生Mysql & SpringBoot & Mybatis 的代码生成器，建表之后即可完全解放双手
-
-*   [zhongshaofa/layuimini](https://github.com/zhongshaofa/layuimini) - 后台admin前端模板，基于 layui 编写的最简洁、易用的后台框架模板。只需提供一个接口就直接初始化整个框架，无需复杂操作。
-
-*   [didi/cube-ui](https://github.com/didi/cube-ui) - :large\_orange\_diamond: A fantastic mobile ui lib implement by Vue
-
-*   [Tencent/tdesign-miniprogram-starter-retail](https://github.com/Tencent/tdesign-miniprogram-starter-retail) - TDesign - 微信小程序 - 零售行业模板
-
-*   [journey-ad/Moe-Counter](https://github.com/journey-ad/Moe-Counter) - Moe counter badge with multiple themes! - 多种风格可选的萌萌计数器
-
-*   [dromara/electron-egg](https://github.com/dromara/electron-egg) - A simple, cross platform, enterprise desktop software development framework
-
-*   [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
-
-*   [zhaotoday/element-plus](https://github.com/zhaotoday/element-plus) - 基于 Vue3 + Element Plus 的后台管理系统。
-
-*   [deepshit2025/tuboshu](https://github.com/deepshit2025/tuboshu) - Transform Your Favorite Websites into Seamless Desktop Experiences✨!   把常用的网站集合到一个桌面程序里。
-
-*   [minbrowser/min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
-
-*   [weui/react-weui](https://github.com/weui/react-weui) - weui for react
-
-*   [timqian/openprompt.co](https://github.com/timqian/openprompt.co) - Create. Use. Share. ChatGPT prompts
-
-*   [Angels-Ray/fake-cursor](https://github.com/Angels-Ray/fake-cursor) - 一个用于重新生成 Cursor 设备 ID 和设置 Access Token 的 Cursor 扩展
-
-*   [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
-
-*   [satrong/node-webcrawler](https://github.com/satrong/node-webcrawler) - 网页版nodejs爬虫工具
-
-*   [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
-
-*   [bestK/cursor-fake-machine](https://github.com/bestK/cursor-fake-machine) -
-
-*   [aglent/autoproxy](https://github.com/aglent/autoproxy) - Auto Switch Rule for SwitchyOmega
-
-*   [Huibq/keep-alive](https://github.com/Huibq/keep-alive) - 洛雪音乐音源、MusicFree音源、落雪音乐音源
-
-*   [codeudan/crawler-china-mainland-universities](https://github.com/codeudan/crawler-china-mainland-universities) - 中国大陆大学列表爬虫
-
-*   [cambecc/earth](https://github.com/cambecc/earth) - a project to visualize global weather conditions
-
-*   [zjmkkk/Serv00\_CT8\_Auto\_Login](https://github.com/zjmkkk/Serv00_CT8_Auto_Login) - Serv00-CT8 - 免费主机自动登录续期
-
-*   [hoothin/SearchJumper](https://github.com/hoothin/SearchJumper) - Yet another awesome browser extension for switching search engines, search everything (selection text / image / link / find in page) on any engine with a simple right click or a variety of menus and shortcuts. Build with React & Material-UI. (WIP).
-
-*   [xiangyuecn/AreaCity-JsSpider-StatsGov](https://github.com/xiangyuecn/AreaCity-JsSpider-StatsGov) - 省市区县乡镇三级或四级城市数据，带拼音标注、坐标、行政区域边界范围；2026年04月03日最新采集，提供csv格式文件，支持在线转成多级联动js代码、通用json格式，提供软件转成shp、geojson、sql、导入数据库；带浏览器里面运行的js采集源码，综合了中华人民共和国民政部、中国•国家地名信息库、统计局、高德地图、腾讯地图行政区划数据
-
-*   [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
-
-*   [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf) - Control and manage Android devices from your browser.
-
-*   [vaxilu/x-ui](https://github.com/vaxilu/x-ui) - 支持多协议多用户的 xray 面板
 
 ## Java
 
@@ -1040,8 +1052,6 @@
 
 *   [ycvk/deeplx-local](https://github.com/ycvk/deeplx-local) - 自建deeplx服务
 
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
-
 ## C\#
 
 *   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
@@ -1174,16 +1184,6 @@
 
 *   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 
-## Dart
-
-*   [Kindness-Kismet/Stelliberty](https://github.com/Kindness-Kismet/Stelliberty) - A modern client built with Flutter and Rust, powered by Mihomo
-
-*   [simplezhli/flutter\_deer](https://github.com/simplezhli/flutter_deer) - 🦌 Flutter 练习项目(包括集成测试、可访问性测试)。内含完整UI设计图，更贴近真实项目的练习。Flutter practice project (including integration testing and accessibility testing). Contains complete UI design drawings for a more realistic practice project.
-
-*   [alesimula/wsa\_pacman](https://github.com/alesimula/wsa_pacman) - A GUI package manager and package installer for Windows Subsystem for Android (WSA)
-
-*   [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
-
 ## C
 
 *   [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
@@ -1292,7 +1292,7 @@
 
 ## Go Template
 
-*   [opsre/awesome-ops](https://github.com/opsre/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 651 个。
+*   [opsre/awesome-ops](https://github.com/opsre/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 652 个。
 
 ## Less
 
